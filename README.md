@@ -19,6 +19,7 @@ The cards we are currently interested in
 TODO:
   - retrieve and update card data by trello-api;
   - filter out trello info not useful to developing work structure;
+  - the complete json for the [OSIC - Ceilometer/Horizon/Fleetmgt](https://trello.com/b/Rd79MAR2/osic-ceilometer-horizon-fleetmgt) board (and its yaml version) is probably not needed here, but for now it might be useful as a reference;  delete at some point
 
 Some potentially useful references:
 
