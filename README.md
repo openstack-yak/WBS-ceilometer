@@ -7,8 +7,17 @@ Outline a card's work in yaml format.
 You can download a trello board by exporting it as json.
 You can convert the json board to yaml with the json2yaml script in the tools section here.
 
+You can get the URL to a specific card, or export the json for a single card from the ''share and more'' menu on the right side of the card.
+
+The cards we are currently interested in
+
+  - [CFGDFT -- Centralize configuration defaults](https://trello.com/c/TSIPTycQ)
+  - [GNOBEN -- Benchmark Gnocchi](https://trello.com/c/dFqhW3am)
+  - [CEIDOC -- Review and update or expand administrators and operators guides for Ceilometer](https://trello.com/c/w8rAJ0u8)
+  
+
 TODO:
-  - split the yaml file out into cards;
+  - retrieve and update card data by trello-api;
   - filter out trello info not useful to developing work structure;
 
 Some potentially useful references:
