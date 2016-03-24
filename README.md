@@ -11,5 +11,7 @@ TODO:
   - split the yaml file out into cards;
   - filter out trello info not useful to developing work structure;
 
+Some potentially useful references:
 
-
+  https://pythonhosted.org/trello/trello.html
+  https://trello.com/app-key
