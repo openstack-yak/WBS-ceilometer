@@ -1,0 +1,3 @@
+#  requirements for the tools in this directory
+PyYAML>=3.11
+trello>=0.9.1
