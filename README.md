@@ -13,5 +13,5 @@ TODO:
 
 Some potentially useful references:
 
-  https://pythonhosted.org/trello/trello.html
-  https://trello.com/app-key
+  - https://pythonhosted.org/trello/trello.html
+  - https://trello.com/app-key
