@@ -1,0 +1,4856 @@
+actions:
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMember: 540e9a94afe2e78875ece265
+  date: '2016-03-23T23:32:12.869Z'
+  id: 56f3277c21233c6450a7d2eb
+  idMemberCreator: 4e7269ba30313f101411f2ef
+  member:
+    avatarHash: c6542f4799dc8f7e3fceb84250261ad8
+    fullName: Richard Jones
+    id: 540e9a94afe2e78875ece265
+    initials: RJ
+    username: richardjones48
+  memberCreator:
+    avatarHash: null
+    fullName: Homer Pena
+    id: 4e7269ba30313f101411f2ef
+    initials: HP
+    username: homerpena
+  type: makeAdminOfBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56ec387c0fbc8ade592e8ff5
+      idShort: 20
+      name: GNOBEN [Ceilometer] -- Test design
+      shortLink: Q4z9irmg
+    idMember: 564b59727819803b350a9e4e
+  date: '2016-03-23T23:31:47.566Z'
+  id: 56f327634f2a4f450ebbf339
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  member:
+    avatarHash: null
+    fullName: Lianhao Lu
+    id: 564b59727819803b350a9e4e
+    initials: LL
+    username: lianhaolu
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addMemberToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56ec381787ee580c546c2520
+      idShort: 16
+      name: GNOBEN [Ceilometer] -- Deployment design
+      shortLink: AZVCRDKj
+    idMember: 53c01a93696d03354b6b8d67
+  date: '2016-03-23T23:31:35.700Z'
+  id: 56f327573ebd241d0fb67efc
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  member:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addMemberToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56ec381787ee580c546c2520
+      idShort: 16
+      name: GNOBEN [Ceilometer] -- Deployment design
+      shortLink: AZVCRDKj
+    idMember: 565cfd5ec173a58111b8290e
+  date: '2016-03-23T23:31:33.398Z'
+  id: 56f327554ee8c4f50d4b8f85
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  member:
+    avatarHash: 8ce5b3912384f82c20de2b068ba9c6b8
+    fullName: Sumant Murke
+    id: 565cfd5ec173a58111b8290e
+    initials: SM
+    username: sumantmurke
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addMemberToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMemberAdded: 54b82e713ef27882ba1da3cc
+    memberType: normal
+  date: '2016-03-23T23:31:33.233Z'
+  id: 56f327559b2690ea685eeec4
+  idMemberCreator: 4e7269ba30313f101411f2ef
+  member:
+    avatarHash: 4d711526a94ff827c41827ac7dc994b0
+    fullName: Neil Cox
+    id: 54b82e713ef27882ba1da3cc
+    initials: NC
+    username: neilcox
+  memberCreator:
+    avatarHash: null
+    fullName: Homer Pena
+    id: 4e7269ba30313f101411f2ef
+    initials: HP
+    username: homerpena
+  type: addMemberToBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56ec381787ee580c546c2520
+      idShort: 16
+      name: GNOBEN [Ceilometer] -- Deployment design
+      shortLink: AZVCRDKj
+    idMember: 568ec2848ab63a9717384ff6
+  date: '2016-03-23T23:31:28.580Z'
+  id: 56f32750c9f3bbf64f3621fb
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  member:
+    avatarHash: null
+    fullName: Yarko Tymciurak
+    id: 568ec2848ab63a9717384ff6
+    initials: YT
+    username: yarkotymciurak1
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addMemberToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56ec381787ee580c546c2520
+      idShort: 16
+      name: GNOBEN [Ceilometer] -- Deployment design
+      shortLink: AZVCRDKj
+    idMember: 564b59727819803b350a9e4e
+  date: '2016-03-23T23:31:24.209Z'
+  id: 56f3274cdfaa64ad0ec57360
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  member:
+    avatarHash: null
+    fullName: Lianhao Lu
+    id: 564b59727819803b350a9e4e
+    initials: LL
+    username: lianhaolu
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addMemberToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMemberAdded: 5158e7f68481e14365003b3f
+    memberType: normal
+  date: '2016-03-23T23:30:11.524Z'
+  id: 56f32703bd63675d4f8296e2
+  idMemberCreator: 4e7269ba30313f101411f2ef
+  member:
+    avatarHash: 34981397a615c7ae70263fbfab509763
+    fullName: Luis Daniel Casanova
+    id: 5158e7f68481e14365003b3f
+    initials: LC
+    username: luisdanielcasanova
+  memberCreator:
+    avatarHash: null
+    fullName: Homer Pena
+    id: 4e7269ba30313f101411f2ef
+    initials: HP
+    username: homerpena
+  type: addMemberToBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56ec387c0fbc8ade592e8ff5
+      idShort: 20
+      name: GNOBEN [Ceilometer] -- Test design
+      shortLink: Q4z9irmg
+    checkItem:
+      id: 56f31a58092b9abacc2414e4
+      name: 'Add gnocchi client to Rally clients proposed: https://review.openstack.org/#/c/296022'
+      state: complete
+    checklist:
+      id: 56f31a4c45bb4e61d21ffa83
+      name: Rally Test Design
+  date: '2016-03-23T23:21:35.727Z'
+  id: 56f324ffc1bc492d4e5db806
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCheckItemStateOnCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f323498714b4eabc17acda
+      idShort: 29
+      name: CFGDFT [Ceilometer] -- Audit and update existing configuration for compliance
+        with cross-project spec
+      shortLink: bWujhtNE
+    deactivated: false
+    idMember: 54ab0d5796a73831d20cd9c7
+  date: '2016-03-23T23:18:12.161Z'
+  id: 56f324348d1ac64fec497780
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  member:
+    avatarHash: 27e2651b64b9d8800b053ccf2b17ef99
+    fullName: Kenny Johnston
+    id: 54ab0d5796a73831d20cd9c7
+    initials: KJ
+    username: kencjohnston
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: removeMemberFromCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f323498714b4eabc17acda
+      idShort: 29
+      name: CFGDFT [Ceilometer] -- Audit and update existing configuration for compliance
+        with cross-project spec
+      shortLink: bWujhtNE
+    idMember: 53c01a93696d03354b6b8d67
+  date: '2016-03-23T23:18:00.741Z'
+  id: 56f324288064ae9a0f5e8d60
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  member:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addMemberToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f323498714b4eabc17acda
+      idShort: 29
+      name: CFGDFT [Ceilometer] -- Audit and update existing configuration for compliance
+        with cross-project spec
+      shortLink: bWujhtNE
+    idMember: 54ab0d5796a73831d20cd9c7
+  date: '2016-03-23T23:17:59.122Z'
+  id: 56f324278c372c9db63f8510
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  member:
+    avatarHash: 27e2651b64b9d8800b053ccf2b17ef99
+    fullName: Kenny Johnston
+    id: 54ab0d5796a73831d20cd9c7
+    initials: KJ
+    username: kencjohnston
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addMemberToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f3236bff7a35253b6a0fa3
+      idShort: 30
+      name: CFGDFT [Ceilometer] -- Ensure latest oslo.config features are utilized
+        throughout telemetry projects
+      shortLink: tiom2lOs
+    checklist:
+      id: 56f32410c5e7ac433bab4b91
+      name: Telemetry compliance
+  date: '2016-03-23T23:17:36.773Z'
+  id: 56f32410c5e7ac433bab4b92
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addChecklistToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    checklist:
+      id: 56f323faf1864027cd8eeee8
+      name: Oslo.config changes
+    old:
+      name: Oslo.config change spec
+  date: '2016-03-23T23:17:19.311Z'
+  id: 56f323ff5385fbd54f7583c0
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateChecklist
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f3236bff7a35253b6a0fa3
+      idShort: 30
+      name: CFGDFT [Ceilometer] -- Ensure latest oslo.config features are utilized
+        throughout telemetry projects
+      shortLink: tiom2lOs
+    checklist:
+      id: 56f323faf1864027cd8eeee8
+      name: Oslo.config change spec
+  date: '2016-03-23T23:17:14.135Z'
+  id: 56f323faf1864027cd8eeee9
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addChecklistToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f323498714b4eabc17acda
+      idShort: 29
+      name: CFGDFT [Ceilometer] -- Audit and update existing configuration for compliance
+        with cross-project spec
+      shortLink: bWujhtNE
+    checklist:
+      id: 56f323c3ab625fb2bccb7853
+      name: Project compliance
+  date: '2016-03-23T23:16:19.884Z'
+  id: 56f323c3ab625fb2bccb7854
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addChecklistToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f323498714b4eabc17acda
+      idShort: 29
+      name: CFGDFT [Ceilometer] -- Audit and update existing configuration for compliance
+        with cross-project spec
+      shortLink: bWujhtNE
+    checkItem:
+      id: 56f32382b107c6b9de0f02f0
+      name: 'spec draft: https://review.openstack.org/#/c/291406/'
+      state: complete
+    checklist:
+      id: 56f32379470e8fb8558f04c2
+      name: Cross-Project spec
+  date: '2016-03-23T23:15:31.083Z'
+  id: 56f323939f58ef81d2033556
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCheckItemStateOnCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f323498714b4eabc17acda
+      idShort: 29
+      name: CFGDFT [Ceilometer] -- Audit and update existing configuration for compliance
+        with cross-project spec
+      shortLink: bWujhtNE
+    checklist:
+      id: 56f32379470e8fb8558f04c2
+      name: Cross-Project spec
+  date: '2016-03-23T23:15:05.345Z'
+  id: 56f32379470e8fb8558f04c3
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addChecklistToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f3236bff7a35253b6a0fa3
+      idShort: 30
+      name: CFGDFT [Ceilometer] -- Ensure latest oslo.config features are utilized
+        throughout telemetry projects
+      shortLink: tiom2lOs
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+  date: '2016-03-23T23:14:51.999Z'
+  id: 56f3236bff7a35253b6a0fa4
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: createCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f323498714b4eabc17acda
+      idShort: 29
+      name: CFGDFT [Ceilometer] -- Audit and update existing configuration for compliance
+        with cross-project spec
+      shortLink: bWujhtNE
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      name: CFGDFT [Ceilometer] -- Audit existing configuration for compliance with
+        cross-project spec
+  date: '2016-03-23T23:14:23.738Z'
+  id: 56f3234f9fa64aefd0a6f482
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f323498714b4eabc17acda
+      idShort: 29
+      name: CFGDFT [Ceilometer] -- Audit existing configuration for compliance with
+        cross-project spec
+      shortLink: bWujhtNE
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+  date: '2016-03-23T23:14:17.634Z'
+  id: 56f323498714b4eabc17acdb
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: createCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56ec387c0fbc8ade592e8ff5
+      idShort: 20
+      name: GNOBEN [Ceilometer] -- Test design
+      shortLink: Q4z9irmg
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    text: 'At least some of the testing will rely on OpenStack Rally to execute the
+      tests. A checklist of tasks for the code changes in support of those tests is
+      being added here to track progress.  '
+  date: '2016-03-23T22:37:43.162Z'
+  id: 56f31ab791dee75cdf6c2eef
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: commentCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56ec387c0fbc8ade592e8ff5
+      idShort: 20
+      name: GNOBEN [Ceilometer] -- Test design
+      shortLink: Q4z9irmg
+    checklist:
+      id: 56f31a4c45bb4e61d21ffa83
+      name: Rally Test Design
+  date: '2016-03-23T22:35:56.818Z'
+  id: 56f31a4c45bb4e61d21ffa84
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addChecklistToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      desc: 'The current Ironic plugin for Horizon <https://launchpad.net/ironic-ui>
+        has minimal functionality and needs usability and other polishing work. The
+        project has its own etherpad of tasks: https://etherpad.openstack.org/p/ironic-plugin-roadmap-v2
+
+
+        '
+      id: 56f313773885db741fba942e
+      idShort: 28
+      name: IRNPLG -- Ironic plugin improvements
+      shortLink: g34qLscB
+    list:
+      id: 56e88037fd1eb8bcf675b9d1
+      name: Epics (Cards don't move)
+    old:
+      desc: 'The current Ironic plugin for Horizon <https://launchpad.net/ironic-ui>
+        has little functionality and needs usability and other polishing work. The
+        project has its own etherpad of tasks: https://etherpad.openstack.org/p/ironic-plugin-roadmap-v2
+
+
+        '
+  date: '2016-03-23T22:09:38.393Z'
+  id: 56f31422ab7ffce40e525172
+  idMemberCreator: 540e9a94afe2e78875ece265
+  memberCreator:
+    avatarHash: c6542f4799dc8f7e3fceb84250261ad8
+    fullName: Richard Jones
+    id: 540e9a94afe2e78875ece265
+    initials: RJ
+    username: richardjones48
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      desc: 'The current Ironic plugin for Horizon <https://launchpad.net/ironic-ui>
+        has little functionality and needs usability and other polishing work. The
+        project has its own etherpad of tasks: https://etherpad.openstack.org/p/ironic-plugin-roadmap-v2
+
+
+        '
+      id: 56f313773885db741fba942e
+      idShort: 28
+      name: IRNPLG -- Ironic plugin improvements
+      shortLink: g34qLscB
+    list:
+      id: 56e88037fd1eb8bcf675b9d1
+      name: Epics (Cards don't move)
+    old:
+      desc: ''
+  date: '2016-03-23T22:09:14.342Z'
+  id: 56f3140a38952125ec473948
+  idMemberCreator: 540e9a94afe2e78875ece265
+  memberCreator:
+    avatarHash: c6542f4799dc8f7e3fceb84250261ad8
+    fullName: Richard Jones
+    id: 540e9a94afe2e78875ece265
+    initials: RJ
+    username: richardjones48
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f313773885db741fba942e
+      idShort: 28
+      name: IRNPLG -- Ironic plugin improvements
+      shortLink: g34qLscB
+    list:
+      id: 56e88037fd1eb8bcf675b9d1
+      name: Epics (Cards don't move)
+  date: '2016-03-23T22:06:47.015Z'
+  id: 56f313773885db741fba942f
+  idMemberCreator: 540e9a94afe2e78875ece265
+  memberCreator:
+    avatarHash: c6542f4799dc8f7e3fceb84250261ad8
+    fullName: Richard Jones
+    id: 540e9a94afe2e78875ece265
+    initials: RJ
+    username: richardjones48
+  type: createCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      desc: During or soon after the Newton release cycle, demonstrate upgradability
+        of a 88-node environment deploying 6 core services*** with 100% data plane
+        uptime with 99% success rate during a 2 hour control-plane downtime window
+      id: 56e88037fd1eb8bcf675b9e4
+      idShort: 6
+      name: DEMOUG -- Demonstrate platform upgradability
+      shortLink: Z7g9CQMC
+    list:
+      id: 56e88037fd1eb8bcf675b9d1
+      name: Epics (Cards don't move)
+    old:
+      desc: During or soon after the Newton release cycle, demonstrate upgradability
+        of a 100-node environment deploying 6 core services*** with 100% data plane
+        uptime with 99% success rate during a 2 hour control-plane downtime window
+  date: '2016-03-23T14:45:45.559Z'
+  id: 56f2ac1995e40f71e3434320
+  idMemberCreator: 5345b7433d0be1041a27c173
+  memberCreator:
+    avatarHash: 3179a03b5c9330a01fa072282b9ff3b1
+    fullName: Krish Raghuram
+    id: 5345b7433d0be1041a27c173
+    initials: KR
+    username: krishr
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      desc: During the Newton release cycle, add Neutron, Cinder, Glance, Heat and
+        Keystone to the list of "assert:supports-rolling-upgrade" and validate
+      id: 56e88037fd1eb8bcf675b9e3
+      idShort: 5
+      name: RLGUPD -- Add rolling upgrade capabilities to additional projectts
+      shortLink: oeFrAgdl
+    list:
+      id: 56e88037fd1eb8bcf675b9d1
+      name: Epics (Cards don't move)
+    old:
+      desc: During or soon after the Newton release cycle, demonstrate upgradability
+        of a 100-node environment deploying 6 core services*** with 100% data plane
+        uptime with 99% success rate during a 2 hour control-plane downtime window
+  date: '2016-03-23T14:44:12.747Z'
+  id: 56f2abbc3d5df116993c2ce8
+  idMemberCreator: 5345b7433d0be1041a27c173
+  memberCreator:
+    avatarHash: 3179a03b5c9330a01fa072282b9ff3b1
+    fullName: Krish Raghuram
+    id: 5345b7433d0be1041a27c173
+    initials: KR
+    username: krishr
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      desc: During the Newton release cycle, add a rolling upgrade third party multi-node
+        CI to one Deployment and LCM Project which validates rolling-upgrades on our
+        reference implementation
+      id: 56e88037fd1eb8bcf675b9e2
+      idShort: 4
+      name: MULTCI -- Establish a rolling upgrade multi-node CI
+      shortLink: NyNVkPVj
+    list:
+      id: 56e88037fd1eb8bcf675b9d1
+      name: Epics (Cards don't move)
+    old:
+      desc: During the Newton release cycle, add Neutron, Cinder, Glance, Heat and
+        Keystone to the list of "assert:supports-rolling-upgrade" and validate
+  date: '2016-03-23T14:43:53.105Z'
+  id: 56f2aba92d13f1189ed93863
+  idMemberCreator: 5345b7433d0be1041a27c173
+  memberCreator:
+    avatarHash: 3179a03b5c9330a01fa072282b9ff3b1
+    fullName: Krish Raghuram
+    id: 5345b7433d0be1041a27c173
+    initials: KR
+    username: krishr
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      desc: 'During the Newton release recruit OpenStack novices from classes of recent
+        OSIC graduates and recruited third party sys-admins, follow them as they install
+        OpenStack using only reference implementation and documentation. Provide a
+        lifeline via named support in the #osic channel where we provide expertise
+        and help where needed to complete the install. Document pain points and improve
+        the process towards the goal of a 88 node install taking X hours during the
+        Newton release cycle'
+      id: 56e88037fd1eb8bcf675b9e1
+      idShort: 3
+      name: NOVEXP - Document and improve novice experience
+      shortLink: iYpBl3eY
+    list:
+      id: 56e88037fd1eb8bcf675b9d1
+      name: Epics (Cards don't move)
+    old:
+      desc: During the Newton release cycle, add a rolling upgrade third party multi-node
+        CI to one Deployment and LCM Project which validates rolling-upgrades on our
+        reference implementation
+  date: '2016-03-23T14:43:29.301Z'
+  id: 56f2ab913497869b25575112
+  idMemberCreator: 5345b7433d0be1041a27c173
+  memberCreator:
+    avatarHash: 3179a03b5c9330a01fa072282b9ff3b1
+    fullName: Krish Raghuram
+    id: 5345b7433d0be1041a27c173
+    initials: KR
+    username: krishr
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      desc: ' During the Newton release cycle, create feature classification framework[4]
+        across core services*** and seed with two common configurations.
+
+
+        [Feature Classification Framework User Story (in review)](https://review.openstack.org/#/c/291298/)'
+      id: 56e88037fd1eb8bcf675b9e5
+      idShort: 7
+      name: FEATCL --- Create Feature Classification Framework
+      shortLink: RothaqIp
+    list:
+      id: 56e88037fd1eb8bcf675b9d1
+      name: Epics (Cards don't move)
+    old:
+      desc: ' During the Newton release cycle, create feature classification framework[4]
+        across core services*** and seed with two common configurations.'
+  date: '2016-03-23T01:55:10.329Z'
+  id: 56f1f77ef2b624219ab9f15f
+  idMemberCreator: 54ab0d5796a73831d20cd9c7
+  memberCreator:
+    avatarHash: 27e2651b64b9d8800b053ccf2b17ef99
+    fullName: Kenny Johnston
+    id: 54ab0d5796a73831d20cd9c7
+    initials: KJ
+    username: kencjohnston
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      desc: 'During the Newton release cycle, centralize and review 100% of configuration
+        defaults across OSIC projects* and set applicable defaults to operational
+        best practices while maintaining defcore compliance.**
+
+
+        [Centralize Config User Story (in review)](https://review.openstack.org/#/c/291406/)'
+      id: 56e88037fd1eb8bcf675b9de
+      idShort: 1
+      name: CFGDFT -- Centralize configuration defaults
+      shortLink: TSIPTycQ
+    list:
+      id: 56e88037fd1eb8bcf675b9d1
+      name: Epics (Cards don't move)
+    old:
+      desc: During the Newton release cycle, centralize and review 100% of configuration
+        defaults across OSIC projects* and set applicable defaults to operational
+        best practices while maintaining defcore compliance.**
+  date: '2016-03-23T01:52:30.935Z'
+  id: 56f1f6de508eba228729449f
+  idMemberCreator: 54ab0d5796a73831d20cd9c7
+  memberCreator:
+    avatarHash: 27e2651b64b9d8800b053ccf2b17ef99
+    fullName: Kenny Johnston
+    id: 54ab0d5796a73831d20cd9c7
+    initials: KJ
+    username: kencjohnston
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56e9e03e72cb251910d35128
+      idShort: 15
+      name: CEIDOC -- Review and update or expand administrators and operators guides
+        for Ceilometer
+      shortLink: w8rAJ0u8
+    list:
+      id: 56e88037fd1eb8bcf675b9d1
+      name: Epics (Cards don't move)
+    text: "@yarkotymciurak1 \nAnother slide deck containing good overview of Ceilometer\
+      \ arch, including showing the evolution from Icehouse through Liberty: http://www.slideshare.net/praddevel/stabilizing-the-jenga-tower-scaling-out-ceilometer"
+  date: '2016-03-22T22:13:15.966Z'
+  id: 56f1c37b8e0076d186cdda51
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: commentCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56e9e03e72cb251910d35128
+      idShort: 15
+      name: CEIDOC -- Review and update or expand administrators and operators guides
+        for Ceilometer
+      shortLink: w8rAJ0u8
+    list:
+      id: 56e88037fd1eb8bcf675b9d1
+      name: Epics (Cards don't move)
+    text: "@yarkotymciurak1 \nThere may be some value in reviewing the following presentation\
+      \ from the Tokyo summit (Fall 2015)\nhttp://www.slideshare.net/shixiongshang1/openstack-autoscale-v22\n\
+      esp. around slide 18 WRT Ceilometer's arch and it's role within OpenStack"
+  date: '2016-03-22T22:03:15.226Z'
+  id: 56f1c1233f9c74199afbd2d0
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: commentCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56e9e03e72cb251910d35128
+      idShort: 15
+      name: CEIDOC -- Review and update or expand administrators and operators guides
+        for Ceilometer
+      shortLink: w8rAJ0u8
+    list:
+      id: 56e88037fd1eb8bcf675b9d1
+      name: Epics (Cards don't move)
+    text: Should include rolling-upgrades documentation improvement if needed.
+  date: '2016-03-22T21:14:36.041Z'
+  id: 56f1b5bcfe0dce47485c3215
+  idMemberCreator: 54ab0d5796a73831d20cd9c7
+  memberCreator:
+    avatarHash: 27e2651b64b9d8800b053ccf2b17ef99
+    fullName: Kenny Johnston
+    id: 54ab0d5796a73831d20cd9c7
+    initials: KJ
+    username: kencjohnston
+  type: commentCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f066c3319e57d8ebea8c5e
+      idShort: 21
+      name: GNOBEN [Ceilometer] -- Ansible role for production/scale testing deployments
+      shortLink: 3jleOgdI
+    checkItem:
+      id: 56f0891e355b64d0a92178c7
+      name: Spec is accepted and merged
+      state: complete
+    checklist:
+      id: 56f08900538663f30daf6753
+      name: Blueprint & Spec
+  date: '2016-03-22T20:41:43.027Z'
+  id: 56f1ae07832f93252a315588
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCheckItemStateOnCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f1826e7ec7148cc465e847
+      idShort: 27
+      name: FLTMGT - Arbitary Task Execution - MVP
+      shortLink: aSHj03c5
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+  date: '2016-03-22T17:35:42.692Z'
+  id: 56f1826e7ec7148cc465e848
+  idMemberCreator: 528a3d8157b18e6e6000c4f1
+  memberCreator:
+    avatarHash: f34664cfc6859d17d2fd4c53ae39ac0d
+    fullName: Tane Evans
+    id: 528a3d8157b18e6e6000c4f1
+    initials: TKE
+    username: taneevans
+  type: createCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMemberAdded: 4f8f06da4dda0ca306253cab
+    memberType: normal
+  date: '2016-03-22T16:57:06.751Z'
+  id: 56f17962090396299e82edba
+  idMemberCreator: 53fcd5a2e6e8b9d0142794d9
+  member:
+    avatarHash: 0f73d05a62ac3543813281d414eef3a3
+    fullName: Darren Birkett
+    id: 4f8f06da4dda0ca306253cab
+    initials: DB
+    username: darrenbirkett
+  memberCreator:
+    avatarHash: 41fefd5e665c9cea010295432dc4f3a4
+    fullName: Bernardo Salinas
+    id: 53fcd5a2e6e8b9d0142794d9
+    initials: BS
+    username: b3rnard0
+  type: addMemberToBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMemberAdded: 50f5a56e252b71453f00491b
+    memberType: normal
+  date: '2016-03-22T16:56:59.898Z'
+  id: 56f1795b2a9128e3a559b635
+  idMemberCreator: 53fcd5a2e6e8b9d0142794d9
+  member:
+    avatarHash: e25e306db1f7e1ba3ae3df2a082f747b
+    fullName: Chris Laco
+    id: 50f5a56e252b71453f00491b
+    initials: CL
+    username: chrislacorackspace
+  memberCreator:
+    avatarHash: 41fefd5e665c9cea010295432dc4f3a4
+    fullName: Bernardo Salinas
+    id: 53fcd5a2e6e8b9d0142794d9
+    initials: BS
+    username: b3rnard0
+  type: addMemberToBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMemberAdded: 53fcd5a2e6e8b9d0142794d9
+    memberType: normal
+  date: '2016-03-22T14:34:32.703Z'
+  id: 56f157f861609b9c4b4b3517
+  idMemberCreator: 4f4d669bf0178a39404b6aef
+  member:
+    avatarHash: 41fefd5e665c9cea010295432dc4f3a4
+    fullName: Bernardo Salinas
+    id: 53fcd5a2e6e8b9d0142794d9
+    initials: BS
+    username: b3rnard0
+  memberCreator:
+    avatarHash: 630ad528cd57b59154f704e64ebddf96
+    fullName: Allan Metts
+    id: 4f4d669bf0178a39404b6aef
+    initials: AM
+    username: allanmetts
+  type: addMemberToBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f154fdb68d4cbd719f134e
+      idShort: 26
+      name: FLTMGT - Implementation/Design beyond MVP
+      shortLink: VaGCPK21
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+  date: '2016-03-22T14:21:49.322Z'
+  id: 56f154fdb68d4cbd719f134f
+  idMemberCreator: 4f4d669bf0178a39404b6aef
+  memberCreator:
+    avatarHash: 630ad528cd57b59154f704e64ebddf96
+    fullName: Allan Metts
+    id: 4f4d669bf0178a39404b6aef
+    initials: AM
+    username: allanmetts
+  type: createCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f154d07aac5a6ac538bc3b
+      idShort: 25
+      name: FLTMGT - Open Source Strategy
+      shortLink: Wt7zaSSi
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+  date: '2016-03-22T14:21:04.669Z'
+  id: 56f154d07aac5a6ac538bc3c
+  idMemberCreator: 4f4d669bf0178a39404b6aef
+  memberCreator:
+    avatarHash: 630ad528cd57b59154f704e64ebddf96
+    fullName: Allan Metts
+    id: 4f4d669bf0178a39404b6aef
+    initials: AM
+    username: allanmetts
+  type: createCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f15440194f6f80f09d369b
+      idShort: 24
+      name: FLTMGT - Auditor/Monitor - MVP
+      shortLink: nX1l9E3w
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      name: FLTMGT - Auditor/Monitor
+  date: '2016-03-22T14:20:31.008Z'
+  id: 56f154af10cc8f5daab91862
+  idMemberCreator: 54ab0d5796a73831d20cd9c7
+  memberCreator:
+    avatarHash: 27e2651b64b9d8800b053ccf2b17ef99
+    fullName: Kenny Johnston
+    id: 54ab0d5796a73831d20cd9c7
+    initials: KJ
+    username: kencjohnston
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f153b714c5e7ec0a9a0ac2
+      idShort: 23
+      name: FLTMGT - Automated Remediation MVP
+      shortLink: NLLzJ7Mp
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      name: FLTMGT - Automated Remediation
+  date: '2016-03-22T14:20:23.164Z'
+  id: 56f154a79be78e992faa3346
+  idMemberCreator: 54ab0d5796a73831d20cd9c7
+  memberCreator:
+    avatarHash: 27e2651b64b9d8800b053ccf2b17ef99
+    fullName: Kenny Johnston
+    id: 54ab0d5796a73831d20cd9c7
+    initials: KJ
+    username: kencjohnston
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f153ae3dd982d965d71a9e
+      idShort: 22
+      name: FLTMGT - Inventory Management MVP
+      shortLink: pKZdfvoo
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      name: FLTMGT - Inventory Management
+  date: '2016-03-22T14:20:14.968Z'
+  id: 56f1549e7ccbbe44709cd3c3
+  idMemberCreator: 54ab0d5796a73831d20cd9c7
+  memberCreator:
+    avatarHash: 27e2651b64b9d8800b053ccf2b17ef99
+    fullName: Kenny Johnston
+    id: 54ab0d5796a73831d20cd9c7
+    initials: KJ
+    username: kencjohnston
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f15440194f6f80f09d369b
+      idShort: 24
+      name: FLTMGT - Auditor/Monitor
+      shortLink: nX1l9E3w
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+  date: '2016-03-22T14:18:40.153Z'
+  id: 56f15440194f6f80f09d369c
+  idMemberCreator: 54ab0d5796a73831d20cd9c7
+  memberCreator:
+    avatarHash: 27e2651b64b9d8800b053ccf2b17ef99
+    fullName: Kenny Johnston
+    id: 54ab0d5796a73831d20cd9c7
+    initials: KJ
+    username: kencjohnston
+  type: createCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f153b714c5e7ec0a9a0ac2
+      idShort: 23
+      name: FLTMGT - Automated Remediation
+      shortLink: NLLzJ7Mp
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+  date: '2016-03-22T14:16:23.517Z'
+  id: 56f153b714c5e7ec0a9a0ac3
+  idMemberCreator: 54ab0d5796a73831d20cd9c7
+  memberCreator:
+    avatarHash: 27e2651b64b9d8800b053ccf2b17ef99
+    fullName: Kenny Johnston
+    id: 54ab0d5796a73831d20cd9c7
+    initials: KJ
+    username: kencjohnston
+  type: createCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f153ae3dd982d965d71a9e
+      idShort: 22
+      name: FLTMGT - Inventory Management
+      shortLink: pKZdfvoo
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+  date: '2016-03-22T14:16:14.457Z'
+  id: 56f153ae3dd982d965d71a9f
+  idMemberCreator: 54ab0d5796a73831d20cd9c7
+  memberCreator:
+    avatarHash: 27e2651b64b9d8800b053ccf2b17ef99
+    fullName: Kenny Johnston
+    id: 54ab0d5796a73831d20cd9c7
+    initials: KJ
+    username: kencjohnston
+  type: createCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMemberAdded: 4f8eee722ae49b3908292815
+    memberType: normal
+  date: '2016-03-22T14:06:28.591Z'
+  id: 56f151644a55c6fac99594a0
+  idMemberCreator: 4f4d669bf0178a39404b6aef
+  member:
+    avatarHash: 6d87169a5d97da7a00869ddcb090f805
+    fullName: Jason Cannavale
+    id: 4f8eee722ae49b3908292815
+    initials: JC
+    username: jasoncannavale
+  memberCreator:
+    avatarHash: 630ad528cd57b59154f704e64ebddf96
+    fullName: Allan Metts
+    id: 4f4d669bf0178a39404b6aef
+    initials: AM
+    username: allanmetts
+  type: addMemberToBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f066c3319e57d8ebea8c5e
+      idShort: 21
+      name: GNOBEN [Ceilometer] -- Ansible role for production/scale testing deployments
+      shortLink: 3jleOgdI
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    text: 'Most all of the implementation steps listed here were initially completed
+      during the Mitaka cycle but changes to the OpenStack-Ansible project (especially
+      Independant Role Repositories specs) blocked acceptance and merge of this role.
+
+
+      Each of the implementation steps will require some new work to integrate the
+      Gnocchi role with the current best-practices used within the OpenStack-Ansible
+      project as they have changed since the initial solution was drafted, and there
+      have been many changes in the Gnocchi project as well mandating thorough review
+      and updates to the deployment role before the OpenStack-Ansible community will
+      accept and merge the implementation.'
+  date: '2016-03-21T23:59:49.770Z'
+  id: 56f08af53052934568e06ab3
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: commentCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f066c3319e57d8ebea8c5e
+      idShort: 21
+      name: GNOBEN [Ceilometer] -- Ansible role for production/scale testing deployments
+      shortLink: 3jleOgdI
+    checkItem:
+      id: 56f08906c35aa78f0daef509
+      name: Propose spec [https://review.openstack.org/#/c/295574/2]
+      state: complete
+    checklist:
+      id: 56f08900538663f30daf6753
+      name: Blueprint & Spec
+  date: '2016-03-21T23:55:57.176Z'
+  id: 56f08a0df4a084e422fbfb16
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCheckItemStateOnCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f066c3319e57d8ebea8c5e
+      idShort: 21
+      name: GNOBEN [Ceilometer] -- Ansible role for production/scale testing deployments
+      shortLink: 3jleOgdI
+    checklist:
+      id: 56f08930ca1696ff83922021
+      name: Implementation
+  date: '2016-03-21T23:52:16.421Z'
+  id: 56f08930ca1696ff83922022
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addChecklistToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f066c3319e57d8ebea8c5e
+      idShort: 21
+      name: GNOBEN [Ceilometer] -- Ansible role for production/scale testing deployments
+      shortLink: 3jleOgdI
+    checklist:
+      id: 56f08900538663f30daf6753
+      name: Blueprint & Spec
+  date: '2016-03-21T23:51:28.753Z'
+  id: 56f08900538663f30daf6754
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addChecklistToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f066c3319e57d8ebea8c5e
+      idShort: 21
+      name: GNOBEN [Ceilometer] -- Ansible role for production/scale testing deployments
+      pos: 294911
+      shortLink: 3jleOgdI
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      pos: 393215
+  date: '2016-03-21T21:26:03.585Z'
+  id: 56f066ebd73ba16e3f88f55a
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      desc: 'This is a carry-forward from Mitaka
+
+        '
+      id: 56f066c3319e57d8ebea8c5e
+      idShort: 21
+      name: GNOBEN [Ceilometer] -- Ansible role for production/scale testing deployments
+      shortLink: 3jleOgdI
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      desc: ''
+  date: '2016-03-21T21:25:51.455Z'
+  id: 56f066df292de3753cfc4bce
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f066c3319e57d8ebea8c5e
+      idShort: 21
+      name: GNOBEN [Ceilometer] -- Ansible role for production/scale testing deployments
+      shortLink: 3jleOgdI
+    idMember: 53c01a93696d03354b6b8d67
+  date: '2016-03-21T21:25:27.794Z'
+  id: 56f066c77b94d6833fcc131b
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  member:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addMemberToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56f066c3319e57d8ebea8c5e
+      idShort: 21
+      name: GNOBEN [Ceilometer] -- Ansible role for production/scale testing deployments
+      shortLink: 3jleOgdI
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+  date: '2016-03-21T21:25:23.743Z'
+  id: 56f066c3319e57d8ebea8c5f
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: createCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMemberAdded: 527128a3aca80c8143005bfa
+    memberType: normal
+  date: '2016-03-21T21:10:10.024Z'
+  id: 56f063321f257e2b8153ec98
+  idMemberCreator: 4f4d669bf0178a39404b6aef
+  member:
+    avatarHash: 7ff37266f5fa232fd31d145ea939f4a3
+    fullName: Mike Apostol
+    id: 527128a3aca80c8143005bfa
+    initials: MA
+    username: mikeapostol1
+  memberCreator:
+    avatarHash: 630ad528cd57b59154f704e64ebddf96
+    fullName: Allan Metts
+    id: 4f4d669bf0178a39404b6aef
+    initials: AM
+    username: allanmetts
+  type: addMemberToBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56ec387c0fbc8ade592e8ff5
+      idShort: 20
+      name: GNOBEN [Ceilometer] -- Test design
+      shortLink: Q4z9irmg
+    idMember: 565cfd5ec173a58111b8290e
+  date: '2016-03-21T15:57:54.578Z'
+  id: 56f01a0259f9b1bed79741a8
+  idMemberCreator: 565cfd5ec173a58111b8290e
+  member:
+    avatarHash: 8ce5b3912384f82c20de2b068ba9c6b8
+    fullName: Sumant Murke
+    id: 565cfd5ec173a58111b8290e
+    initials: SM
+    username: sumantmurke
+  memberCreator:
+    avatarHash: 8ce5b3912384f82c20de2b068ba9c6b8
+    fullName: Sumant Murke
+    id: 565cfd5ec173a58111b8290e
+    initials: SM
+    username: sumantmurke
+  type: addMemberToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56e9db0b630812bbf42e1ff3
+      idShort: 14
+      name: GNOBEN -- Benchmark Gnocchi
+      shortLink: dFqhW3am
+    list:
+      id: 56e88037fd1eb8bcf675b9d1
+      name: Epics (Cards don't move)
+    text: "This has been a community priority, and some efforts have been made to\
+      \ date leading to improvements but as many issues have been found readily through\
+      \ these benchmarking efforts additional resources are desired by the community.\
+      \ \n\nThe Mitaka summit's priorities etherpad includes this task, not marked\
+      \ as done:\nhttps://etherpad.openstack.org/p/mitaka-telemetry-todos\n\nit is\
+      \ carried over to Newton planning:\nhttps://etherpad.openstack.org/p/newton-telemetry-summit-planning"
+  date: '2016-03-18T23:09:56.130Z'
+  id: 56ec8ac4b8be11e627b410c5
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: commentCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56e9db0b630812bbf42e1ff3
+      idShort: 14
+      name: GNOBEN -- Benchmark Gnocchi
+      shortLink: dFqhW3am
+    list:
+      id: 56e88037fd1eb8bcf675b9d1
+      name: Epics (Cards don't move)
+    text: 'Attached an existing community document describing the sort of scale testing
+      desired. '
+  date: '2016-03-18T23:05:29.848Z'
+  id: 56ec89b97619add0295095ba
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: commentCard
+- data:
+    attachment:
+      id: 56ec898abcef39ef4e4248c7
+      name: https://docs.google.com/document/d/17zx7tcwhcW5gwa1gkmX3-GnPjjnUPbGFHec9x7u1gO8/edit#
+      url: https://docs.google.com/document/d/17zx7tcwhcW5gwa1gkmX3-GnPjjnUPbGFHec9x7u1gO8/edit#
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56e9db0b630812bbf42e1ff3
+      idShort: 14
+      name: GNOBEN -- Benchmark Gnocchi
+      shortLink: dFqhW3am
+  date: '2016-03-18T23:04:42.128Z'
+  id: 56ec898abcef39ef4e4248c8
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addAttachmentToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      desc: "Design the architecture for the deployment specifying \n - what tooling\
+        \ and/or guides will be used to facilitate the deploy\n - what infrastructural/Openstack\
+        \ services are to be deployed and which are to be omitted\n - where, and with\
+        \ what multiplicity, each service will be deployed\n - networks configuration\
+        \ specification (control plane, data plane(s)?)\n - disk configuration (disk\
+        \ partition plan, mount points, RAID levels)\n"
+      id: 56ec381787ee580c546c2520
+      idShort: 16
+      name: GNOBEN [Ceilometer] -- Deployment design
+      shortLink: AZVCRDKj
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      desc: "Design the architecture for the deployment specifying \n - what infrastructural/Openstack\
+        \ services are to be deployed and which are to be omitted\n - where, and with\
+        \ what multiplicity, each service will be deployed\n - networks configuration\
+        \ specification (control plane, data plane(s)?)\n - disk configuration (disk\
+        \ partition plan, mount points, RAID levels)\n"
+  date: '2016-03-18T21:05:17.586Z'
+  id: 56ec6d8dfbeb6e6928153ca0
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      desc: 'Perform deployment and configuration of services over the cluster.
+
+        Validate each service operating correctly, individually and together.'
+      id: 56ec386ee502764c094fdc06
+      idShort: 19
+      name: GNOBEN [Ceilometer] -- Deployment
+      shortLink: 2ahDuy9t
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      desc: Perform deployment and configuration of services over the cluster.
+  date: '2016-03-18T21:00:40.065Z'
+  id: 56ec6c781707f19dfc84e2dc
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      desc: Perform deployment and configuration of services over the cluster.
+      id: 56ec386ee502764c094fdc06
+      idShort: 19
+      name: GNOBEN [Ceilometer] -- Deployment
+      shortLink: 2ahDuy9t
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      desc: ''
+  date: '2016-03-18T20:59:58.413Z'
+  id: 56ec6c4e80b94a94d7c625d6
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      desc: "Hosts need to be prepared for the deployment. \nThis might include:\n\
+        \ - base image, \n - package sources added\n - any other prerequisite configuration\
+        \ and packages laid down)\n - other tasks as identified"
+      id: 56ec385c35c01a96532c5fa7
+      idShort: 18
+      name: GNOBEN [Ceilometer] -- Host preparation
+      shortLink: ouAT37vO
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      desc: ''
+  date: '2016-03-18T19:24:07.222Z'
+  id: 56ec55d7dccc00f88f58434a
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      desc: 'Write and submit a request for a dedicated OSIC cluster.
+
+
+        Is extra time needed or will 3 weeks do for the test plan?'
+      id: 56ec382c20e3a863a8e9ae92
+      idShort: 17
+      name: GNOBEN [Ceilometer] -- OSIC cluster request submission
+      shortLink: o6fBxqCt
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      desc: ''
+  date: '2016-03-18T19:15:14.394Z'
+  id: 56ec53c29ef66b90cdb335e0
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56ec382c20e3a863a8e9ae92
+      idShort: 17
+      name: GNOBEN [Ceilometer] -- OSIC cluster request submission
+      shortLink: o6fBxqCt
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      name: GNOBEN [Ceilometer] -- OSIC proposal
+  date: '2016-03-18T19:14:57.757Z'
+  id: 56ec53b1b8ea4f798b804984
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      desc: "What is the plan for the test models to be run? \nWhat data needs to\
+        \ be collected for each test model? \nHow will the measurements need to be\
+        \ processed?\nWhat order are they run in? \nWhat known configuration changes\
+        \ are expected for each test model?"
+      id: 56ec387c0fbc8ade592e8ff5
+      idShort: 20
+      name: GNOBEN [Ceilometer] -- Test design
+      shortLink: Q4z9irmg
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      desc: ''
+  date: '2016-03-18T19:14:33.658Z'
+  id: 56ec5399c2617a3a0558065e
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56ec387c0fbc8ade592e8ff5
+      idShort: 20
+      name: GNOBEN [Ceilometer] -- Test design
+      pos: 163839
+      shortLink: Q4z9irmg
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      pos: 393215
+  date: '2016-03-18T19:12:47.564Z'
+  id: 56ec532fa27d545ac4bfb8e7
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      desc: "Design the architecture for the deployment specifying \n - what infrastructural/Openstack\
+        \ services are to be deployed and which are to be omitted\n - where, and with\
+        \ what multiplicity, each service will be deployed\n - networks configuration\
+        \ specification (control plane, data plane(s)?)\n - disk configuration (disk\
+        \ partition plan, mount points, RAID levels)\n"
+      id: 56ec381787ee580c546c2520
+      idShort: 16
+      name: GNOBEN [Ceilometer] -- Deployment design
+      shortLink: AZVCRDKj
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      desc: ''
+  date: '2016-03-18T19:09:55.762Z'
+  id: 56ec5283b5d22409fc4cc1fd
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56ec387c0fbc8ade592e8ff5
+      idShort: 20
+      name: GNOBEN [Ceilometer] -- Test design
+      shortLink: Q4z9irmg
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+  date: '2016-03-18T17:18:52.621Z'
+  id: 56ec387c0fbc8ade592e8ff6
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: createCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56ec386ee502764c094fdc06
+      idShort: 19
+      name: GNOBEN [Ceilometer] -- Deployment
+      shortLink: 2ahDuy9t
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+  date: '2016-03-18T17:18:38.780Z'
+  id: 56ec386ee502764c094fdc07
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: createCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56ec385c35c01a96532c5fa7
+      idShort: 18
+      name: GNOBEN [Ceilometer] -- Host preparation
+      shortLink: ouAT37vO
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+  date: '2016-03-18T17:18:20.427Z'
+  id: 56ec385c35c01a96532c5fa8
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: createCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56ec382c20e3a863a8e9ae92
+      idShort: 17
+      name: GNOBEN [Ceilometer] -- OSIC proposal
+      shortLink: o6fBxqCt
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+  date: '2016-03-18T17:17:32.775Z'
+  id: 56ec382c20e3a863a8e9ae93
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: createCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56ec381787ee580c546c2520
+      idShort: 16
+      name: GNOBEN [Ceilometer] -- Deployment design
+      shortLink: AZVCRDKj
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+  date: '2016-03-18T17:17:11.217Z'
+  id: 56ec381787ee580c546c2521
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: createCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56e9e03e72cb251910d35128
+      idShort: 15
+      name: CEIDOC -- Review and update or expand administrators and operators guides
+        for Ceilometer
+      pos: 917503
+      shortLink: w8rAJ0u8
+    list:
+      id: 56e88037fd1eb8bcf675b9d1
+      name: Epics (Cards don't move)
+    old:
+      pos: 196607
+  date: '2016-03-16T23:35:46.158Z'
+  id: 56e9edd257603ce6c173ac70
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56e9e03e72cb251910d35128
+      idList: 56e88037fd1eb8bcf675b9d1
+      idShort: 15
+      name: CEIDOC -- Review and update or expand administrators and operators guides
+        for Ceilometer
+      shortLink: w8rAJ0u8
+    listAfter:
+      id: 56e88037fd1eb8bcf675b9d1
+      name: Epics (Cards don't move)
+    listBefore:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      idList: 56e88037fd1eb8bcf675b9d2
+  date: '2016-03-16T23:35:46.026Z'
+  id: 56e9edd257603ce6c173ac6e
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56e9db0b630812bbf42e1ff3
+      idShort: 14
+      name: GNOBEN -- Benchmark Gnocchi
+      pos: 851967
+      shortLink: dFqhW3am
+    list:
+      id: 56e88037fd1eb8bcf675b9d1
+      name: Epics (Cards don't move)
+    old:
+      pos: 131071
+  date: '2016-03-16T23:35:39.768Z'
+  id: 56e9edcbc0b8518f858f281a
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56e9db0b630812bbf42e1ff3
+      idList: 56e88037fd1eb8bcf675b9d1
+      idShort: 14
+      name: GNOBEN -- Benchmark Gnocchi
+      shortLink: dFqhW3am
+    listAfter:
+      id: 56e88037fd1eb8bcf675b9d1
+      name: Epics (Cards don't move)
+    listBefore:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      idList: 56e88037fd1eb8bcf675b9d2
+  date: '2016-03-16T23:35:39.742Z'
+  id: 56e9edcbc0b8518f858f2819
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      desc: "Abstract:\nAssemble an OpenStack cluster and perform benchmarking. Identify\
+        \ and attempt to diagnose bottlenecks. Attempt to identify optimal tunings\
+        \ at that size, and recommend for the OpenStack Telemetry community areas\
+        \ for continued optimization as appropriate. Multiple configurations to test,\
+        \ as time allows, would include Ceilometer with(out) Gnocchi, Gnocchi using\
+        \ each of: File, Ceph, Swift, and InfluxDB storage engines. \n"
+      id: 56e9db0b630812bbf42e1ff3
+      idShort: 14
+      name: GNOBEN -- Benchmark Gnocchi
+      shortLink: dFqhW3am
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      desc: 'Abstract:
+
+        Assemble an OpenStack cluster and perform benchmarking. Identify and attempt
+        to diagnose bottlenecks. Attempt to identify optimal tunings at that size,
+        and recommend for the OpenStack Telemetry community areas for continued optimization
+        as appropriate.
+
+        '
+  date: '2016-03-16T23:32:42.774Z'
+  id: 56e9ed1aec6f32838c442072
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56e9db0b630812bbf42e1ff3
+      idShort: 14
+      name: GNOBEN -- Benchmark Gnocchi
+      shortLink: dFqhW3am
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      name: GNOBEN -- Benchmark Gnocchi through Ceilometer
+  date: '2016-03-16T23:30:41.901Z'
+  id: 56e9eca1cd5576be162273b3
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      desc: 'Abstract:
+
+        Assemble an OpenStack cluster and perform benchmarking. Identify and attempt
+        to diagnose bottlenecks. Attempt to identify optimal tunings at that size,
+        and recommend for the OpenStack Telemetry community areas for continued optimization
+        as appropriate.
+
+        '
+      id: 56e9db0b630812bbf42e1ff3
+      idShort: 14
+      name: GNOBEN -- Benchmark Gnocchi through Ceilometer
+      shortLink: dFqhW3am
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+    old:
+      desc: ''
+  date: '2016-03-16T23:26:36.364Z'
+  id: 56e9ebac86a90e1d359d1a6d
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: updateCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56e9db0b630812bbf42e1ff3
+      idShort: 14
+      name: GNOBEN -- Benchmark Gnocchi through Ceilometer
+      shortLink: dFqhW3am
+    idMember: 568ec2848ab63a9717384ff6
+  date: '2016-03-16T22:49:39.775Z'
+  id: 56e9e303ec0d19e430910f61
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  member:
+    avatarHash: null
+    fullName: Yarko Tymciurak
+    id: 568ec2848ab63a9717384ff6
+    initials: YT
+    username: yarkotymciurak1
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addMemberToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56e9db0b630812bbf42e1ff3
+      idShort: 14
+      name: GNOBEN -- Benchmark Gnocchi through Ceilometer
+      shortLink: dFqhW3am
+    idMember: 564b59727819803b350a9e4e
+  date: '2016-03-16T22:49:36.324Z'
+  id: 56e9e3005b38f0ef60cde85c
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  member:
+    avatarHash: null
+    fullName: Lianhao Lu
+    id: 564b59727819803b350a9e4e
+    initials: LL
+    username: lianhaolu
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addMemberToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56e9db0b630812bbf42e1ff3
+      idShort: 14
+      name: GNOBEN -- Benchmark Gnocchi through Ceilometer
+      shortLink: dFqhW3am
+    idMember: 565cfd5ec173a58111b8290e
+  date: '2016-03-16T22:49:34.241Z'
+  id: 56e9e2fe8d6a254a16553d46
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  member:
+    avatarHash: 8ce5b3912384f82c20de2b068ba9c6b8
+    fullName: Sumant Murke
+    id: 565cfd5ec173a58111b8290e
+    initials: SM
+    username: sumantmurke
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addMemberToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56e9e03e72cb251910d35128
+      idShort: 15
+      name: CEIDOC -- Review and update or expand administrators and operators guides
+        for Ceilometer
+      shortLink: w8rAJ0u8
+    idMember: 53c01a93696d03354b6b8d67
+  date: '2016-03-16T22:49:22.789Z'
+  id: 56e9e2f2749347686026abf6
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  member:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addMemberToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56e9e03e72cb251910d35128
+      idShort: 15
+      name: CEIDOC -- Review and update or expand administrators and operators guides
+        for Ceilometer
+      shortLink: w8rAJ0u8
+    idMember: 568ec2848ab63a9717384ff6
+  date: '2016-03-16T22:49:21.948Z'
+  id: 56e9e2f1e6a83556311962ff
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  member:
+    avatarHash: null
+    fullName: Yarko Tymciurak
+    id: 568ec2848ab63a9717384ff6
+    initials: YT
+    username: yarkotymciurak1
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addMemberToCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56e9e03e72cb251910d35128
+      idShort: 15
+      name: CEIDOC -- Review and update or expand administrators and operators guides
+        for Ceilometer
+      shortLink: w8rAJ0u8
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+  date: '2016-03-16T22:37:50.157Z'
+  id: 56e9e03e72cb251910d35129
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: createCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    card:
+      id: 56e9db0b630812bbf42e1ff3
+      idShort: 14
+      name: GNOBEN -- Benchmark Gnocchi through Ceilometer
+      shortLink: dFqhW3am
+    list:
+      id: 56e88037fd1eb8bcf675b9d2
+      name: Backlog
+  date: '2016-03-16T22:15:39.603Z'
+  id: 56e9db0b630812bbf42e1ff4
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: createCard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMemberAdded: 564b59727819803b350a9e4e
+    memberType: normal
+  date: '2016-03-16T16:42:43.293Z'
+  id: 56e98d0384de6aac72e51c24
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  member:
+    avatarHash: null
+    fullName: Lianhao Lu
+    id: 564b59727819803b350a9e4e
+    initials: LL
+    username: lianhaolu
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addMemberToBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMemberAdded: 568ec2848ab63a9717384ff6
+    memberType: normal
+  date: '2016-03-16T16:42:34.289Z'
+  id: 56e98cfa6e17998971141fd4
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  member:
+    avatarHash: null
+    fullName: Yarko Tymciurak
+    id: 568ec2848ab63a9717384ff6
+    initials: YT
+    username: yarkotymciurak1
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addMemberToBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMemberAdded: 565cfd5ec173a58111b8290e
+    memberType: normal
+  date: '2016-03-16T16:42:26.890Z'
+  id: 56e98cf2af0ecd3beb0895fb
+  idMemberCreator: 53c01a93696d03354b6b8d67
+  member:
+    avatarHash: 8ce5b3912384f82c20de2b068ba9c6b8
+    fullName: Sumant Murke
+    id: 565cfd5ec173a58111b8290e
+    initials: SM
+    username: sumantmurke
+  memberCreator:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  type: addMemberToBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMemberAdded: 540e9a94afe2e78875ece265
+    memberType: normal
+  date: '2016-03-16T16:40:24.159Z'
+  id: 56e98c7850f0a25a6abca5ac
+  idMemberCreator: 4f4d669bf0178a39404b6aef
+  member:
+    avatarHash: c6542f4799dc8f7e3fceb84250261ad8
+    fullName: Richard Jones
+    id: 540e9a94afe2e78875ece265
+    initials: RJ
+    username: richardjones48
+  memberCreator:
+    avatarHash: 630ad528cd57b59154f704e64ebddf96
+    fullName: Allan Metts
+    id: 4f4d669bf0178a39404b6aef
+    initials: AM
+    username: allanmetts
+  type: addMemberToBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMember: 564a519a6089563330b9db6e
+  date: '2016-03-16T15:53:32.252Z'
+  id: 56e9817cc7ff63300301c1e2
+  idMemberCreator: 4e7269ba30313f101411f2ef
+  member:
+    avatarHash: null
+    fullName: Sonu Sreenivasan
+    id: 564a519a6089563330b9db6e
+    initials: SS
+    username: sonusreenivasan1
+  memberCreator:
+    avatarHash: null
+    fullName: Homer Pena
+    id: 4e7269ba30313f101411f2ef
+    initials: HP
+    username: homerpena
+  type: makeAdminOfBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMemberAdded: 5345b7433d0be1041a27c173
+    memberType: normal
+  date: '2016-03-16T15:53:25.276Z'
+  id: 56e981759c3fcaa4f63b77f8
+  idMemberCreator: 4e7269ba30313f101411f2ef
+  member:
+    avatarHash: 3179a03b5c9330a01fa072282b9ff3b1
+    fullName: Krish Raghuram
+    id: 5345b7433d0be1041a27c173
+    initials: KR
+    username: krishr
+  memberCreator:
+    avatarHash: null
+    fullName: Homer Pena
+    id: 4e7269ba30313f101411f2ef
+    initials: HP
+    username: homerpena
+  type: addMemberToBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMemberAdded: 564a519a6089563330b9db6e
+    memberType: normal
+  date: '2016-03-16T15:53:19.811Z'
+  id: 56e9816f9eeac336f64cac3b
+  idMemberCreator: 4e7269ba30313f101411f2ef
+  member:
+    avatarHash: null
+    fullName: Sonu Sreenivasan
+    id: 564a519a6089563330b9db6e
+    initials: SS
+    username: sonusreenivasan1
+  memberCreator:
+    avatarHash: null
+    fullName: Homer Pena
+    id: 4e7269ba30313f101411f2ef
+    initials: HP
+    username: homerpena
+  type: addMemberToBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMember: 528a3d8157b18e6e6000c4f1
+  date: '2016-03-15T21:51:27.856Z'
+  id: 56e883df39ea3ebf8b0d4818
+  idMemberCreator: 4e7269ba30313f101411f2ef
+  member:
+    avatarHash: f34664cfc6859d17d2fd4c53ae39ac0d
+    fullName: Tane Evans
+    id: 528a3d8157b18e6e6000c4f1
+    initials: TKE
+    username: taneevans
+  memberCreator:
+    avatarHash: null
+    fullName: Homer Pena
+    id: 4e7269ba30313f101411f2ef
+    initials: HP
+    username: homerpena
+  type: makeAdminOfBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMemberAdded: 528a3d8157b18e6e6000c4f1
+    memberType: normal
+  date: '2016-03-15T21:51:16.637Z'
+  id: 56e883d45eeb276a17adba1d
+  idMemberCreator: 4e7269ba30313f101411f2ef
+  member:
+    avatarHash: f34664cfc6859d17d2fd4c53ae39ac0d
+    fullName: Tane Evans
+    id: 528a3d8157b18e6e6000c4f1
+    initials: TKE
+    username: taneevans
+  memberCreator:
+    avatarHash: null
+    fullName: Homer Pena
+    id: 4e7269ba30313f101411f2ef
+    initials: HP
+    username: homerpena
+  type: addMemberToBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMember: 54ab0d5796a73831d20cd9c7
+  date: '2016-03-15T21:47:02.756Z'
+  id: 56e882d693863b1c865dc897
+  idMemberCreator: 4e7269ba30313f101411f2ef
+  member:
+    avatarHash: 27e2651b64b9d8800b053ccf2b17ef99
+    fullName: Kenny Johnston
+    id: 54ab0d5796a73831d20cd9c7
+    initials: KJ
+    username: kencjohnston
+  memberCreator:
+    avatarHash: null
+    fullName: Homer Pena
+    id: 4e7269ba30313f101411f2ef
+    initials: HP
+    username: homerpena
+  type: makeAdminOfBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMemberAdded: 54ab0d5796a73831d20cd9c7
+    memberType: normal
+  date: '2016-03-15T21:46:56.425Z'
+  id: 56e882d0ac2e135ffeebcd4a
+  idMemberCreator: 4e7269ba30313f101411f2ef
+  member:
+    avatarHash: 27e2651b64b9d8800b053ccf2b17ef99
+    fullName: Kenny Johnston
+    id: 54ab0d5796a73831d20cd9c7
+    initials: KJ
+    username: kencjohnston
+  memberCreator:
+    avatarHash: null
+    fullName: Homer Pena
+    id: 4e7269ba30313f101411f2ef
+    initials: HP
+    username: homerpena
+  type: addMemberToBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMember: 53c01a93696d03354b6b8d67
+  date: '2016-03-15T21:45:21.475Z'
+  id: 56e88271efe5d35c94b359ba
+  idMemberCreator: 4e7269ba30313f101411f2ef
+  member:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  memberCreator:
+    avatarHash: null
+    fullName: Homer Pena
+    id: 4e7269ba30313f101411f2ef
+    initials: HP
+    username: homerpena
+  type: makeAdminOfBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMember: 4f4d669bf0178a39404b6aef
+  date: '2016-03-15T21:45:18.873Z'
+  id: 56e8826ebe4e3cc9d051ac97
+  idMemberCreator: 4e7269ba30313f101411f2ef
+  member:
+    avatarHash: 630ad528cd57b59154f704e64ebddf96
+    fullName: Allan Metts
+    id: 4f4d669bf0178a39404b6aef
+    initials: AM
+    username: allanmetts
+  memberCreator:
+    avatarHash: null
+    fullName: Homer Pena
+    id: 4e7269ba30313f101411f2ef
+    initials: HP
+    username: homerpena
+  type: makeAdminOfBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMemberAdded: 53c01a93696d03354b6b8d67
+    memberType: normal
+  date: '2016-03-15T21:37:28.510Z'
+  id: 56e88098dbae7b6e8fd5fa4e
+  idMemberCreator: 4e7269ba30313f101411f2ef
+  member:
+    avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+    fullName: Steve Lewis
+    id: 53c01a93696d03354b6b8d67
+    initials: SL
+    username: stevelle
+  memberCreator:
+    avatarHash: null
+    fullName: Homer Pena
+    id: 4e7269ba30313f101411f2ef
+    initials: HP
+    username: homerpena
+  type: addMemberToBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMember: 4f4d669bf0178a39404b6aef
+  date: '2016-03-15T21:37:21.487Z'
+  id: 56e88091ee8f75638bda17f0
+  idMemberCreator: 4e7269ba30313f101411f2ef
+  member:
+    avatarHash: 630ad528cd57b59154f704e64ebddf96
+    fullName: Allan Metts
+    id: 4f4d669bf0178a39404b6aef
+    initials: AM
+    username: allanmetts
+  memberCreator:
+    avatarHash: null
+    fullName: Homer Pena
+    id: 4e7269ba30313f101411f2ef
+    initials: HP
+    username: homerpena
+  type: makeNormalMemberOfBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    idMemberAdded: 4f4d669bf0178a39404b6aef
+    memberType: normal
+  date: '2016-03-15T21:37:18.284Z'
+  id: 56e8808e9cb2443cc0538a88
+  idMemberCreator: 4e7269ba30313f101411f2ef
+  member:
+    avatarHash: 630ad528cd57b59154f704e64ebddf96
+    fullName: Allan Metts
+    id: 4f4d669bf0178a39404b6aef
+    initials: AM
+    username: allanmetts
+  memberCreator:
+    avatarHash: null
+    fullName: Homer Pena
+    id: 4e7269ba30313f101411f2ef
+    initials: HP
+    username: homerpena
+  type: addMemberToBoard
+- data:
+    board:
+      id: 56e88037fd1eb8bcf675b9d0
+      name: OSIC - Ceilometer/Horizon/FleetMgt
+      shortLink: Rd79MAR2
+    boardSource:
+      id: 56e8800d4e648e175ba7a6f2
+      name: OSIC - Deploy - OSA/OPS/ Ref Imp
+  date: '2016-03-15T21:35:51.842Z'
+  id: 56e88037fd1eb8bcf675b9f6
+  idMemberCreator: 4e7269ba30313f101411f2ef
+  memberCreator:
+    avatarHash: null
+    fullName: Homer Pena
+    id: 4e7269ba30313f101411f2ef
+    initials: HP
+    username: homerpena
+  type: copyBoard
+cards:
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-23T21:40:51.528Z'
+  desc: 'During the Newton release cycle, centralize and review 100% of configuration
+    defaults across OSIC projects* and set applicable defaults to operational best
+    practices while maintaining defcore compliance.**
+
+
+    [Centralize Config User Story (in review)](https://review.openstack.org/#/c/291406/)'
+  descData:
+    emoji: {}
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56e88037fd1eb8bcf675b9de+6aefb3dc9455dae4aa82c0682edf7e91ef149e08@boards.trello.com
+  id: 56e88037fd1eb8bcf675b9de
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels:
+  - 56e88037fd1eb8bcf675b9dd
+  - 56f30d63152c3f92fd8b82e6
+  idList: 56e88037fd1eb8bcf675b9d1
+  idMembers: []
+  idMembersVoted: []
+  idShort: 1
+  labels:
+  - color: sky
+    id: 56e88037fd1eb8bcf675b9dd
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Ceilometer
+    uses: 11
+  - color: green
+    id: 56f30d63152c3f92fd8b82e6
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Horizon
+    uses: 3
+  manualCoverAttachment: false
+  name: CFGDFT -- Centralize configuration defaults
+  pos: 65535
+  shortLink: TSIPTycQ
+  shortUrl: https://trello.com/c/TSIPTycQ
+  subscribed: false
+  url: https://trello.com/c/TSIPTycQ/1-cfgdft-centralize-configuration-defaults
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-22T14:25:45.116Z'
+  desc: 'Open-source an inventory management operations/fleet management service to
+    the community during the Mitaka release cycle AND auditing and resolving open-source
+    operations/fleet management services in the Newton release cycle.
+
+    '
+  descData: null
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56e88037fd1eb8bcf675b9e0+9dea5d5d00da16948e8989594425294fde22e243@boards.trello.com
+  id: 56e88037fd1eb8bcf675b9e0
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels:
+  - 56e88037fd1eb8bcf675b9dc
+  idList: 56e88037fd1eb8bcf675b9d1
+  idMembers: []
+  idMembersVoted: []
+  idShort: 2
+  labels:
+  - color: purple
+    id: 56e88037fd1eb8bcf675b9dc
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Fleet Management
+    uses: 7
+  manualCoverAttachment: false
+  name: FLTMGT - Establish operations/fleet management in the community
+  pos: 131071
+  shortLink: 3FGd1odm
+  shortUrl: https://trello.com/c/3FGd1odm
+  subscribed: false
+  url: https://trello.com/c/3FGd1odm/2-fltmgt-establish-operations-fleet-management-in-the-community
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-23T14:43:29.296Z'
+  desc: 'During the Newton release recruit OpenStack novices from classes of recent
+    OSIC graduates and recruited third party sys-admins, follow them as they install
+    OpenStack using only reference implementation and documentation. Provide a lifeline
+    via named support in the #osic channel where we provide expertise and help where
+    needed to complete the install. Document pain points and improve the process towards
+    the goal of a 88 node install taking X hours during the Newton release cycle'
+  descData:
+    emoji: {}
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56e88037fd1eb8bcf675b9e1+0212e64823c90914f875d13c8f89774783fa97e5@boards.trello.com
+  id: 56e88037fd1eb8bcf675b9e1
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels: []
+  idList: 56e88037fd1eb8bcf675b9d1
+  idMembers: []
+  idMembersVoted: []
+  idShort: 3
+  labels: []
+  manualCoverAttachment: false
+  name: NOVEXP - Document and improve novice experience
+  pos: 196607
+  shortLink: iYpBl3eY
+  shortUrl: https://trello.com/c/iYpBl3eY
+  subscribed: false
+  url: https://trello.com/c/iYpBl3eY/3-novexp-document-and-improve-novice-experience
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-23T14:43:53.099Z'
+  desc: During the Newton release cycle, add a rolling upgrade third party multi-node
+    CI to one Deployment and LCM Project which validates rolling-upgrades on our reference
+    implementation
+  descData:
+    emoji: {}
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56e88037fd1eb8bcf675b9e2+28085410275ea16eb90f2085e93253ef9dd985dd@boards.trello.com
+  id: 56e88037fd1eb8bcf675b9e2
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels: []
+  idList: 56e88037fd1eb8bcf675b9d1
+  idMembers: []
+  idMembersVoted: []
+  idShort: 4
+  labels: []
+  manualCoverAttachment: false
+  name: MULTCI -- Establish a rolling upgrade multi-node CI
+  pos: 262143
+  shortLink: NyNVkPVj
+  shortUrl: https://trello.com/c/NyNVkPVj
+  subscribed: false
+  url: https://trello.com/c/NyNVkPVj/4-multci-establish-a-rolling-upgrade-multi-node-ci
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-23T21:44:53.943Z'
+  desc: During the Newton release cycle, add Neutron, Cinder, Glance, Heat and Keystone
+    to the list of "assert:supports-rolling-upgrade" and validate
+  descData:
+    emoji: {}
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56e88037fd1eb8bcf675b9e3+b9848e07c9454eb4c7fb94106d6baae6bcd4b164@boards.trello.com
+  id: 56e88037fd1eb8bcf675b9e3
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels:
+  - 56f30d63152c3f92fd8b82e6
+  idList: 56e88037fd1eb8bcf675b9d1
+  idMembers: []
+  idMembersVoted: []
+  idShort: 5
+  labels:
+  - color: green
+    id: 56f30d63152c3f92fd8b82e6
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Horizon
+    uses: 3
+  manualCoverAttachment: false
+  name: RLGUPD -- Add rolling upgrade capabilities to additional projectts
+  pos: 327679
+  shortLink: oeFrAgdl
+  shortUrl: https://trello.com/c/oeFrAgdl
+  subscribed: false
+  url: https://trello.com/c/oeFrAgdl/5-rlgupd-add-rolling-upgrade-capabilities-to-additional-projectts
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-23T14:45:45.555Z'
+  desc: During or soon after the Newton release cycle, demonstrate upgradability of
+    a 88-node environment deploying 6 core services*** with 100% data plane uptime
+    with 99% success rate during a 2 hour control-plane downtime window
+  descData:
+    emoji: {}
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56e88037fd1eb8bcf675b9e4+6b3f8d6585a4f9a7fd2055ff9c5fb7bc56e56bf3@boards.trello.com
+  id: 56e88037fd1eb8bcf675b9e4
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels: []
+  idList: 56e88037fd1eb8bcf675b9d1
+  idMembers: []
+  idMembersVoted: []
+  idShort: 6
+  labels: []
+  manualCoverAttachment: false
+  name: DEMOUG -- Demonstrate platform upgradability
+  pos: 393215
+  shortLink: Z7g9CQMC
+  shortUrl: https://trello.com/c/Z7g9CQMC
+  subscribed: false
+  url: https://trello.com/c/Z7g9CQMC/6-demoug-demonstrate-platform-upgradability
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-23T01:55:10.324Z'
+  desc: ' During the Newton release cycle, create feature classification framework[4]
+    across core services*** and seed with two common configurations.
+
+
+    [Feature Classification Framework User Story (in review)](https://review.openstack.org/#/c/291298/)'
+  descData:
+    emoji: {}
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56e88037fd1eb8bcf675b9e5+80d3542d8ce79cee254a2c460ec68f6b4ea9ce9f@boards.trello.com
+  id: 56e88037fd1eb8bcf675b9e5
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels: []
+  idList: 56e88037fd1eb8bcf675b9d1
+  idMembers: []
+  idMembersVoted: []
+  idShort: 7
+  labels: []
+  manualCoverAttachment: false
+  name: FEATCL --- Create Feature Classification Framework
+  pos: 458751
+  shortLink: RothaqIp
+  shortUrl: https://trello.com/c/RothaqIp
+  subscribed: false
+  url: https://trello.com/c/RothaqIp/7-featcl-create-feature-classification-framework
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-15T21:35:51.769Z'
+  desc: During the Newton release cycle, improve the Syntribos tool to provide support
+    for all core OSIC projects*** in order to provide a common API security testing
+    tool.
+  descData: null
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56e88037fd1eb8bcf675b9e6+88cae422b5788f54714becbe84127981363a6c84@boards.trello.com
+  id: 56e88037fd1eb8bcf675b9e6
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels: []
+  idList: 56e88037fd1eb8bcf675b9d1
+  idMembers: []
+  idMembersVoted: []
+  idShort: 8
+  labels: []
+  manualCoverAttachment: false
+  name: SECTST -- Establish a common API Security Testing Tool
+  pos: 524287
+  shortLink: S1ySooPW
+  shortUrl: https://trello.com/c/S1ySooPW
+  subscribed: false
+  url: https://trello.com/c/S1ySooPW/8-sectst-establish-a-common-api-security-testing-tool
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-15T21:35:51.774Z'
+  desc: During the Newton release cycle, ensure the cloud portion (reference implementation
+    deployment) portion of the OSIC cluster maintains 99.99% control plane availability
+    outside of regular maintenance periods and baseline data-plane availabilty.
+  descData: null
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56e88037fd1eb8bcf675b9e7+edf2fc74e3fe768f4d59a959ae755f6ef5074828@boards.trello.com
+  id: 56e88037fd1eb8bcf675b9e7
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels: []
+  idList: 56e88037fd1eb8bcf675b9d1
+  idMembers: []
+  idMembersVoted: []
+  idShort: 9
+  labels: []
+  manualCoverAttachment: false
+  name: CPNAVL -- Monitor and Improve Control Plane availability
+  pos: 589823
+  shortLink: V8dH4iG9
+  shortUrl: https://trello.com/c/V8dH4iG9
+  subscribed: false
+  url: https://trello.com/c/V8dH4iG9/9-cpnavl-monitor-and-improve-control-plane-availability
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-15T21:35:51.780Z'
+  desc: "During the Newton release cycle, deploy reference implementation OpenStack\
+    \ at 22 hosts and apply continual load while growing to 600 hosts without downtime.\
+    \ Document and distribute operational best practices. \n\n\n"
+  descData: null
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56e88037fd1eb8bcf675b9e8+a51da7b4e77912e30829d3e7e2076fb3535c2ea1@boards.trello.com
+  id: 56e88037fd1eb8bcf675b9e8
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels: []
+  idList: 56e88037fd1eb8bcf675b9d1
+  idMembers: []
+  idMembersVoted: []
+  idShort: 10
+  labels: []
+  manualCoverAttachment: false
+  name: LODTST -- Establish and document continuous load testing
+  pos: 655359
+  shortLink: YL4B3LbM
+  shortUrl: https://trello.com/c/YL4B3LbM
+  subscribed: false
+  url: https://trello.com/c/YL4B3LbM/10-lodtst-establish-and-document-continuous-load-testing
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-15T21:35:51.791Z'
+  desc: During the Newton release cycle, deploy and integrate commenting performance
+    third party CI and provide benchmarks for common metrics across all OSIC projects
+  descData: null
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56e88037fd1eb8bcf675b9ea+5a4b2cb6b477859ea1fca48391ce7319d9f6cc10@boards.trello.com
+  id: 56e88037fd1eb8bcf675b9ea
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels: []
+  idList: 56e88037fd1eb8bcf675b9d1
+  idMembers: []
+  idMembersVoted: []
+  idShort: 11
+  labels: []
+  manualCoverAttachment: false
+  name: THRDCI -- Deploy and integrate a third party CI for benchmarking
+  pos: 720895
+  shortLink: j3VvoTm1
+  shortUrl: https://trello.com/c/j3VvoTm1
+  subscribed: false
+  url: https://trello.com/c/j3VvoTm1/11-thrdci-deploy-and-integrate-a-third-party-ci-for-benchmarking
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-15T21:35:51.797Z'
+  desc: During the Newton release cycle, improve Swift time to first byte by 20%
+  descData: null
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56e88037fd1eb8bcf675b9eb+7ae6025d75f45a6f62177c2b6fe20cae46facaeb@boards.trello.com
+  id: 56e88037fd1eb8bcf675b9eb
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels: []
+  idList: 56e88037fd1eb8bcf675b9d1
+  idMembers: []
+  idMembersVoted: []
+  idShort: 12
+  labels: []
+  manualCoverAttachment: false
+  name: SWFTTM -- Improve Swift time to first byte
+  pos: 786431
+  shortLink: sP5p8j18
+  shortUrl: https://trello.com/c/sP5p8j18
+  subscribed: false
+  url: https://trello.com/c/sP5p8j18/12-swfttm-improve-swift-time-to-first-byte
+- attachments:
+  - bytes: null
+    date: '2016-03-18T23:04:42.122Z'
+    edgeColor: null
+    id: 56ec898abcef39ef4e4248c7
+    idMember: 53c01a93696d03354b6b8d67
+    isUpload: false
+    mimeType: ''
+    name: https://docs.google.com/document/d/17zx7tcwhcW5gwa1gkmX3-GnPjjnUPbGFHec9x7u1gO8/edit#
+    previews: []
+    url: https://docs.google.com/document/d/17zx7tcwhcW5gwa1gkmX3-GnPjjnUPbGFHec9x7u1gO8/edit#
+  badges:
+    attachments: 1
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 2
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: true
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-18T23:09:56.128Z'
+  desc: "Abstract:\nAssemble an OpenStack cluster and perform benchmarking. Identify\
+    \ and attempt to diagnose bottlenecks. Attempt to identify optimal tunings at\
+    \ that size, and recommend for the OpenStack Telemetry community areas for continued\
+    \ optimization as appropriate. Multiple configurations to test, as time allows,\
+    \ would include Ceilometer with(out) Gnocchi, Gnocchi using each of: File, Ceph,\
+    \ Swift, and InfluxDB storage engines. \n"
+  descData:
+    emoji: {}
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56e9db0b630812bbf42e1ff3+085f6061c7573a5a354f95fe49e3dbe33281d33e@boards.trello.com
+  id: 56e9db0b630812bbf42e1ff3
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels:
+  - 56e88037fd1eb8bcf675b9d8
+  - 56e88037fd1eb8bcf675b9dd
+  idList: 56e88037fd1eb8bcf675b9d1
+  idMembers:
+  - 565cfd5ec173a58111b8290e
+  - 564b59727819803b350a9e4e
+  - 568ec2848ab63a9717384ff6
+  idMembersVoted: []
+  idShort: 14
+  labels:
+  - color: pink
+    id: 56e88037fd1eb8bcf675b9d8
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Opportunistic
+    uses: 8
+  - color: sky
+    id: 56e88037fd1eb8bcf675b9dd
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Ceilometer
+    uses: 11
+  manualCoverAttachment: false
+  name: GNOBEN -- Benchmark Gnocchi
+  pos: 851967
+  shortLink: dFqhW3am
+  shortUrl: https://trello.com/c/dFqhW3am
+  subscribed: true
+  url: https://trello.com/c/dFqhW3am/14-gnoben-benchmark-gnocchi
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 3
+    description: false
+    due: null
+    fogbugz: ''
+    subscribed: true
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-22T22:13:15.964Z'
+  desc: ''
+  descData: null
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56e9e03e72cb251910d35128+b6c3bfff43f4e49d10be7d7c80869084073584d5@boards.trello.com
+  id: 56e9e03e72cb251910d35128
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels:
+  - 56e88037fd1eb8bcf675b9d8
+  - 56e88037fd1eb8bcf675b9dd
+  idList: 56e88037fd1eb8bcf675b9d1
+  idMembers:
+  - 568ec2848ab63a9717384ff6
+  - 53c01a93696d03354b6b8d67
+  idMembersVoted: []
+  idShort: 15
+  labels:
+  - color: pink
+    id: 56e88037fd1eb8bcf675b9d8
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Opportunistic
+    uses: 8
+  - color: sky
+    id: 56e88037fd1eb8bcf675b9dd
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Ceilometer
+    uses: 11
+  manualCoverAttachment: false
+  name: CEIDOC -- Review and update or expand administrators and operators guides
+    for Ceilometer
+  pos: 917503
+  shortLink: w8rAJ0u8
+  shortUrl: https://trello.com/c/w8rAJ0u8
+  subscribed: true
+  url: https://trello.com/c/w8rAJ0u8/15-ceidoc-review-and-update-or-expand-administrators-and-operators-guides-for-ceilometer
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-23T22:09:38.387Z'
+  desc: 'The current Ironic plugin for Horizon <https://launchpad.net/ironic-ui> has
+    minimal functionality and needs usability and other polishing work. The project
+    has its own etherpad of tasks: https://etherpad.openstack.org/p/ironic-plugin-roadmap-v2
+
+
+    '
+  descData:
+    emoji: {}
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56f313773885db741fba942e+95aef114c380e35062b2fd5a7c444ca698ccf3d9@boards.trello.com
+  id: 56f313773885db741fba942e
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels:
+  - 56f30d63152c3f92fd8b82e6
+  idList: 56e88037fd1eb8bcf675b9d1
+  idMembers: []
+  idMembersVoted: []
+  idShort: 28
+  labels:
+  - color: green
+    id: 56f30d63152c3f92fd8b82e6
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Horizon
+    uses: 3
+  manualCoverAttachment: false
+  name: IRNPLG -- Ironic plugin improvements
+  pos: 983039
+  shortLink: g34qLscB
+  shortUrl: https://trello.com/c/g34qLscB
+  subscribed: false
+  url: https://trello.com/c/g34qLscB/28-irnplg-ironic-plugin-improvements
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 5
+    checkItemsChecked: 0
+    comments: 0
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-15T21:35:51.804Z'
+  desc: "This is the example card:\nDescription of the Functionality and User Benefit\
+    \ that is provided by this Epic/task once completed. \nTrello Card rules \n--1--\
+    \ Every card belongs to an Epic.  Epics are the \"big goals\" for Newton that\
+    \ Kenny asked folks to break down and those you and your team are proposing. \
+    \ \n--2-- Every Epic has a six-character, all-cap mnemonic.  So the Epic to build\
+    \ a new widget might be NEWWGT.\n \n--3-- Every card name is prefixed with the\
+    \ Epic mnemonic, so the card to write the widget's scheduling logic might be named\
+    \ \"NEWWGT - Build scheduling logic\".  We'll use this instead of the parent-child\
+    \ card relationships found in a tool like Jira.\nSecondary Cards Need this card\
+    \ Title to reference the \"EPIC\" card on the left column of the trello board\
+    \ \n\nAt least Initially this work breakdown assumes that the work will be completed\
+    \ in the next \"Newton\" release cycle \n\n"
+  descData: null
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56e88037fd1eb8bcf675b9ec+0d08579671be6180d7db6eb07e555095be96e952@boards.trello.com
+  id: 56e88037fd1eb8bcf675b9ec
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists:
+  - 56e88037fd1eb8bcf675b9ee
+  - 56e88037fd1eb8bcf675b9f1
+  idLabels: []
+  idList: 56e88037fd1eb8bcf675b9d2
+  idMembers: []
+  idMembersVoted: []
+  idShort: 13
+  labels: []
+  manualCoverAttachment: false
+  name: 'Example: Work Breakdown SWFTTM - Draft Spec for submission'
+  pos: 65535
+  shortLink: XC5wyRqm
+  shortUrl: https://trello.com/c/XC5wyRqm
+  subscribed: false
+  url: https://trello.com/c/XC5wyRqm/13-example-work-breakdown-swfttm-draft-spec-for-submission
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: true
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-23T23:31:35.693Z'
+  desc: "Design the architecture for the deployment specifying \n - what tooling and/or\
+    \ guides will be used to facilitate the deploy\n - what infrastructural/Openstack\
+    \ services are to be deployed and which are to be omitted\n - where, and with\
+    \ what multiplicity, each service will be deployed\n - networks configuration\
+    \ specification (control plane, data plane(s)?)\n - disk configuration (disk partition\
+    \ plan, mount points, RAID levels)\n"
+  descData:
+    emoji: {}
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56ec381787ee580c546c2520+95c57d667a860357c8419b049dca90f3b93287e0@boards.trello.com
+  id: 56ec381787ee580c546c2520
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels:
+  - 56e88037fd1eb8bcf675b9dd
+  - 56e88037fd1eb8bcf675b9d8
+  idList: 56e88037fd1eb8bcf675b9d2
+  idMembers:
+  - 564b59727819803b350a9e4e
+  - 568ec2848ab63a9717384ff6
+  - 565cfd5ec173a58111b8290e
+  - 53c01a93696d03354b6b8d67
+  idMembersVoted: []
+  idShort: 16
+  labels:
+  - color: sky
+    id: 56e88037fd1eb8bcf675b9dd
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Ceilometer
+    uses: 11
+  - color: pink
+    id: 56e88037fd1eb8bcf675b9d8
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Opportunistic
+    uses: 8
+  manualCoverAttachment: false
+  name: GNOBEN [Ceilometer] -- Deployment design
+  pos: 131071
+  shortLink: AZVCRDKj
+  shortUrl: https://trello.com/c/AZVCRDKj
+  subscribed: true
+  url: https://trello.com/c/AZVCRDKj/16-gnoben-ceilometer-deployment-design
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 2
+    checkItemsChecked: 1
+    comments: 1
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates:
+  - idCheckItem: 56f31a58092b9abacc2414e4
+    state: complete
+  closed: false
+  dateLastActivity: '2016-03-23T23:31:47.562Z'
+  desc: "What is the plan for the test models to be run? \nWhat data needs to be collected\
+    \ for each test model? \nHow will the measurements need to be processed?\nWhat\
+    \ order are they run in? \nWhat known configuration changes are expected for each\
+    \ test model?"
+  descData:
+    emoji: {}
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56ec387c0fbc8ade592e8ff5+8f10dadf259ccd2e3161b809e349b40217854706@boards.trello.com
+  id: 56ec387c0fbc8ade592e8ff5
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists:
+  - 56f31a4c45bb4e61d21ffa83
+  idLabels:
+  - 56e88037fd1eb8bcf675b9d8
+  - 56e88037fd1eb8bcf675b9dd
+  idList: 56e88037fd1eb8bcf675b9d2
+  idMembers:
+  - 565cfd5ec173a58111b8290e
+  - 564b59727819803b350a9e4e
+  idMembersVoted: []
+  idShort: 20
+  labels:
+  - color: pink
+    id: 56e88037fd1eb8bcf675b9d8
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Opportunistic
+    uses: 8
+  - color: sky
+    id: 56e88037fd1eb8bcf675b9dd
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Ceilometer
+    uses: 11
+  manualCoverAttachment: false
+  name: GNOBEN [Ceilometer] -- Test design
+  pos: 163839
+  shortLink: Q4z9irmg
+  shortUrl: https://trello.com/c/Q4z9irmg
+  subscribed: false
+  url: https://trello.com/c/Q4z9irmg/20-gnoben-ceilometer-test-design
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-18T19:15:14.387Z'
+  desc: 'Write and submit a request for a dedicated OSIC cluster.
+
+
+    Is extra time needed or will 3 weeks do for the test plan?'
+  descData:
+    emoji: {}
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56ec382c20e3a863a8e9ae92+545f3a65f25c770bf822fd01c0849bb88a151d4e@boards.trello.com
+  id: 56ec382c20e3a863a8e9ae92
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels:
+  - 56e88037fd1eb8bcf675b9d8
+  - 56e88037fd1eb8bcf675b9dd
+  idList: 56e88037fd1eb8bcf675b9d2
+  idMembers: []
+  idMembersVoted: []
+  idShort: 17
+  labels:
+  - color: pink
+    id: 56e88037fd1eb8bcf675b9d8
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Opportunistic
+    uses: 8
+  - color: sky
+    id: 56e88037fd1eb8bcf675b9dd
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Ceilometer
+    uses: 11
+  manualCoverAttachment: false
+  name: GNOBEN [Ceilometer] -- OSIC cluster request submission
+  pos: 196607
+  shortLink: o6fBxqCt
+  shortUrl: https://trello.com/c/o6fBxqCt
+  subscribed: false
+  url: https://trello.com/c/o6fBxqCt/17-gnoben-ceilometer-osic-cluster-request-submission
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-18T19:24:14.151Z'
+  desc: "Hosts need to be prepared for the deployment. \nThis might include:\n - base\
+    \ image, \n - package sources added\n - any other prerequisite configuration and\
+    \ packages laid down)\n - other tasks as identified"
+  descData:
+    emoji: {}
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56ec385c35c01a96532c5fa7+669d4a86c921e2f628644a84e6ad9ceaa4d53f14@boards.trello.com
+  id: 56ec385c35c01a96532c5fa7
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels:
+  - 56e88037fd1eb8bcf675b9d8
+  - 56e88037fd1eb8bcf675b9dd
+  idList: 56e88037fd1eb8bcf675b9d2
+  idMembers: []
+  idMembersVoted: []
+  idShort: 18
+  labels:
+  - color: pink
+    id: 56e88037fd1eb8bcf675b9d8
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Opportunistic
+    uses: 8
+  - color: sky
+    id: 56e88037fd1eb8bcf675b9dd
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Ceilometer
+    uses: 11
+  manualCoverAttachment: false
+  name: GNOBEN [Ceilometer] -- Host preparation
+  pos: 262143
+  shortLink: ouAT37vO
+  shortUrl: https://trello.com/c/ouAT37vO
+  subscribed: false
+  url: https://trello.com/c/ouAT37vO/18-gnoben-ceilometer-host-preparation
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 9
+    checkItemsChecked: 2
+    comments: 1
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates:
+  - idCheckItem: 56f08906c35aa78f0daef509
+    state: complete
+  - idCheckItem: 56f0891e355b64d0a92178c7
+    state: complete
+  closed: false
+  dateLastActivity: '2016-03-22T20:41:43.050Z'
+  desc: 'This is a carry-forward from Mitaka
+
+    '
+  descData:
+    emoji: {}
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56f066c3319e57d8ebea8c5e+594e66b14f1f4f123132dbe6123ef1d4790ee949@boards.trello.com
+  id: 56f066c3319e57d8ebea8c5e
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists:
+  - 56f08900538663f30daf6753
+  - 56f08930ca1696ff83922021
+  idLabels:
+  - 56e88037fd1eb8bcf675b9d8
+  - 56e88037fd1eb8bcf675b9dd
+  idList: 56e88037fd1eb8bcf675b9d2
+  idMembers:
+  - 53c01a93696d03354b6b8d67
+  idMembersVoted: []
+  idShort: 21
+  labels:
+  - color: pink
+    id: 56e88037fd1eb8bcf675b9d8
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Opportunistic
+    uses: 8
+  - color: sky
+    id: 56e88037fd1eb8bcf675b9dd
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Ceilometer
+    uses: 11
+  manualCoverAttachment: false
+  name: GNOBEN [Ceilometer] -- Ansible role for production/scale testing deployments
+  pos: 294911
+  shortLink: 3jleOgdI
+  shortUrl: https://trello.com/c/3jleOgdI
+  subscribed: false
+  url: https://trello.com/c/3jleOgdI/21-gnoben-ceilometer-ansible-role-for-production-scale-testing-deployments
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: true
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-18T21:00:46.036Z'
+  desc: 'Perform deployment and configuration of services over the cluster.
+
+    Validate each service operating correctly, individually and together.'
+  descData:
+    emoji: {}
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56ec386ee502764c094fdc06+0252c8401651b56824e861c13ea572618968c13e@boards.trello.com
+  id: 56ec386ee502764c094fdc06
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels:
+  - 56e88037fd1eb8bcf675b9d8
+  - 56e88037fd1eb8bcf675b9dd
+  idList: 56e88037fd1eb8bcf675b9d2
+  idMembers: []
+  idMembersVoted: []
+  idShort: 19
+  labels:
+  - color: pink
+    id: 56e88037fd1eb8bcf675b9d8
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Opportunistic
+    uses: 8
+  - color: sky
+    id: 56e88037fd1eb8bcf675b9dd
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Ceilometer
+    uses: 11
+  manualCoverAttachment: false
+  name: GNOBEN [Ceilometer] -- Deployment
+  pos: 327679
+  shortLink: 2ahDuy9t
+  shortUrl: https://trello.com/c/2ahDuy9t
+  subscribed: false
+  url: https://trello.com/c/2ahDuy9t/19-gnoben-ceilometer-deployment
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: false
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-22T14:25:29.110Z'
+  desc: ''
+  descData: null
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56f153ae3dd982d965d71a9e+338fdd415248cfbb185dca64650d0a9665525fa0@boards.trello.com
+  id: 56f153ae3dd982d965d71a9e
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels:
+  - 56e88037fd1eb8bcf675b9dc
+  idList: 56e88037fd1eb8bcf675b9d2
+  idMembers: []
+  idMembersVoted: []
+  idShort: 22
+  labels:
+  - color: purple
+    id: 56e88037fd1eb8bcf675b9dc
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Fleet Management
+    uses: 7
+  manualCoverAttachment: false
+  name: FLTMGT - Inventory Management MVP
+  pos: 393215
+  shortLink: pKZdfvoo
+  shortUrl: https://trello.com/c/pKZdfvoo
+  subscribed: false
+  url: https://trello.com/c/pKZdfvoo/22-fltmgt-inventory-management-mvp
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: false
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-22T14:25:31.312Z'
+  desc: ''
+  descData: null
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56f153b714c5e7ec0a9a0ac2+19636ce03545b598cf3377780a8d58076bc251f9@boards.trello.com
+  id: 56f153b714c5e7ec0a9a0ac2
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels:
+  - 56e88037fd1eb8bcf675b9dc
+  idList: 56e88037fd1eb8bcf675b9d2
+  idMembers: []
+  idMembersVoted: []
+  idShort: 23
+  labels:
+  - color: purple
+    id: 56e88037fd1eb8bcf675b9dc
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Fleet Management
+    uses: 7
+  manualCoverAttachment: false
+  name: FLTMGT - Automated Remediation MVP
+  pos: 458751
+  shortLink: NLLzJ7Mp
+  shortUrl: https://trello.com/c/NLLzJ7Mp
+  subscribed: false
+  url: https://trello.com/c/NLLzJ7Mp/23-fltmgt-automated-remediation-mvp
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: false
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-22T14:25:33.406Z'
+  desc: ''
+  descData: null
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56f15440194f6f80f09d369b+17b781fe3c15d0351bd8f1758c04bc5357f5d140@boards.trello.com
+  id: 56f15440194f6f80f09d369b
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels:
+  - 56e88037fd1eb8bcf675b9dc
+  idList: 56e88037fd1eb8bcf675b9d2
+  idMembers: []
+  idMembersVoted: []
+  idShort: 24
+  labels:
+  - color: purple
+    id: 56e88037fd1eb8bcf675b9dc
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Fleet Management
+    uses: 7
+  manualCoverAttachment: false
+  name: FLTMGT - Auditor/Monitor - MVP
+  pos: 524287
+  shortLink: nX1l9E3w
+  shortUrl: https://trello.com/c/nX1l9E3w
+  subscribed: false
+  url: https://trello.com/c/nX1l9E3w/24-fltmgt-auditor-monitor-mvp
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: false
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-22T14:25:35.479Z'
+  desc: ''
+  descData: null
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56f154d07aac5a6ac538bc3b+c6e1551cb90eaaea30ba11c327ebb7a9807d2824@boards.trello.com
+  id: 56f154d07aac5a6ac538bc3b
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels:
+  - 56e88037fd1eb8bcf675b9dc
+  idList: 56e88037fd1eb8bcf675b9d2
+  idMembers: []
+  idMembersVoted: []
+  idShort: 25
+  labels:
+  - color: purple
+    id: 56e88037fd1eb8bcf675b9dc
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Fleet Management
+    uses: 7
+  manualCoverAttachment: false
+  name: FLTMGT - Open Source Strategy
+  pos: 589823
+  shortLink: Wt7zaSSi
+  shortUrl: https://trello.com/c/Wt7zaSSi
+  subscribed: false
+  url: https://trello.com/c/Wt7zaSSi/25-fltmgt-open-source-strategy
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: false
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-22T14:25:38.377Z'
+  desc: ''
+  descData: null
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56f154fdb68d4cbd719f134e+c7e033f8a37e86a3d60bff2f0ae3c8bae34d5d1a@boards.trello.com
+  id: 56f154fdb68d4cbd719f134e
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels:
+  - 56e88037fd1eb8bcf675b9dc
+  idList: 56e88037fd1eb8bcf675b9d2
+  idMembers: []
+  idMembersVoted: []
+  idShort: 26
+  labels:
+  - color: purple
+    id: 56e88037fd1eb8bcf675b9dc
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Fleet Management
+    uses: 7
+  manualCoverAttachment: false
+  name: FLTMGT - Implementation/Design beyond MVP
+  pos: 655359
+  shortLink: VaGCPK21
+  shortUrl: https://trello.com/c/VaGCPK21
+  subscribed: false
+  url: https://trello.com/c/VaGCPK21/26-fltmgt-implementation-design-beyond-mvp
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 0
+    checkItemsChecked: 0
+    comments: 0
+    description: false
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-22T17:35:49.435Z'
+  desc: ''
+  descData: null
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56f1826e7ec7148cc465e847+6f71dd966de7a86cf4728f675c0787d14e812c9b@boards.trello.com
+  id: 56f1826e7ec7148cc465e847
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists: []
+  idLabels:
+  - 56e88037fd1eb8bcf675b9dc
+  idList: 56e88037fd1eb8bcf675b9d2
+  idMembers: []
+  idMembersVoted: []
+  idShort: 27
+  labels:
+  - color: purple
+    id: 56e88037fd1eb8bcf675b9dc
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Fleet Management
+    uses: 7
+  manualCoverAttachment: false
+  name: FLTMGT - Arbitary Task Execution - MVP
+  pos: 720895
+  shortLink: aSHj03c5
+  shortUrl: https://trello.com/c/aSHj03c5
+  subscribed: false
+  url: https://trello.com/c/aSHj03c5/27-fltmgt-arbitary-task-execution-mvp
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 8
+    checkItemsChecked: 1
+    comments: 0
+    description: false
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates:
+  - idCheckItem: 56f32382b107c6b9de0f02f0
+    state: complete
+  closed: false
+  dateLastActivity: '2016-03-23T23:20:33.046Z'
+  desc: ''
+  descData: null
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56f323498714b4eabc17acda+ada436f846e997feff6caab555f79ed6d54574be@boards.trello.com
+  id: 56f323498714b4eabc17acda
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists:
+  - 56f32379470e8fb8558f04c2
+  - 56f323c3ab625fb2bccb7853
+  idLabels:
+  - 56e88037fd1eb8bcf675b9dd
+  idList: 56e88037fd1eb8bcf675b9d2
+  idMembers:
+  - 53c01a93696d03354b6b8d67
+  idMembersVoted: []
+  idShort: 29
+  labels:
+  - color: sky
+    id: 56e88037fd1eb8bcf675b9dd
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Ceilometer
+    uses: 11
+  manualCoverAttachment: false
+  name: CFGDFT [Ceilometer] -- Audit and update existing configuration for compliance
+    with cross-project spec
+  pos: 786431
+  shortLink: bWujhtNE
+  shortUrl: https://trello.com/c/bWujhtNE
+  subscribed: false
+  url: https://trello.com/c/bWujhtNE/29-cfgdft-ceilometer-audit-and-update-existing-configuration-for-compliance-with-cross-project-spec
+- attachments: []
+  badges:
+    attachments: 0
+    checkItems: 8
+    checkItemsChecked: 0
+    comments: 0
+    description: false
+    due: null
+    fogbugz: ''
+    subscribed: false
+    viewingMemberVoted: false
+    votes: 0
+  checkItemStates: []
+  closed: false
+  dateLastActivity: '2016-03-23T23:21:17.212Z'
+  desc: ''
+  descData: null
+  due: null
+  email: yarkotymciurak1+568ec2848ab63a9717384ff6+56f3236bff7a35253b6a0fa3+c7a2555f72113b934f683d990d5cbfb0f7b1a86a@boards.trello.com
+  id: 56f3236bff7a35253b6a0fa3
+  idAttachmentCover: null
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idChecklists:
+  - 56f32410c5e7ac433bab4b91
+  - 56f323faf1864027cd8eeee8
+  idLabels:
+  - 56e88037fd1eb8bcf675b9dd
+  idList: 56e88037fd1eb8bcf675b9d2
+  idMembers: []
+  idMembersVoted: []
+  idShort: 30
+  labels:
+  - color: sky
+    id: 56e88037fd1eb8bcf675b9dd
+    idBoard: 56e88037fd1eb8bcf675b9d0
+    name: Ceilometer
+    uses: 11
+  manualCoverAttachment: false
+  name: CFGDFT [Ceilometer] -- Ensure latest oslo.config features are utilized throughout
+    telemetry projects
+  pos: 851967
+  shortLink: tiom2lOs
+  shortUrl: https://trello.com/c/tiom2lOs
+  subscribed: false
+  url: https://trello.com/c/tiom2lOs/30-cfgdft-ceilometer-ensure-latest-oslo-config-features-are-utilized-throughout-telemetry-projects
+checklists:
+- checkItems:
+  - id: 56f32413645d8441665a151a
+    name: Ceilometer changes proposed
+    nameData:
+      emoji: {}
+    pos: 16704
+    state: incomplete
+  - id: 56f32415146428c7eceeeb14
+    name: Aodh changes proposed
+    nameData:
+      emoji: {}
+    pos: 33895
+    state: incomplete
+  - id: 56f3241641ee69701ed33bce
+    name: Gnocchi changes proposed
+    nameData:
+      emoji: {}
+    pos: 51254
+    state: incomplete
+  - id: 56f324de2a6e714f3bf4530e
+    name: Ceilometer changes accepted
+    nameData: null
+    pos: 68622
+    state: incomplete
+  - id: 56f324e3a82e2100d30b15c0
+    name: Aodh changes accepted
+    nameData:
+      emoji: {}
+    pos: 85762
+    state: incomplete
+  - id: 56f324e8b2486df8ecde2b39
+    name: Gnocchi changes accepted
+    nameData: null
+    pos: 102555
+    state: incomplete
+  id: 56f32410c5e7ac433bab4b91
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idCard: 56f3236bff7a35253b6a0fa3
+  name: Telemetry compliance
+  pos: 32768
+- checkItems:
+  - id: 56e88037fd1eb8bcf675b9ef
+    name: Draft Submission or Review Community Spec
+    nameData: null
+    pos: 16791
+    state: incomplete
+  - id: 56e88037fd1eb8bcf675b9f0
+    name: Spec Approval
+    nameData: null
+    pos: 33789
+    state: incomplete
+  id: 56e88037fd1eb8bcf675b9ee
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idCard: 56e88037fd1eb8bcf675b9ec
+  name: 'BluePrint / Spec '
+  pos: 16384
+- checkItems:
+  - id: 56e88037fd1eb8bcf675b9f2
+    name: Code In Progress
+    nameData: null
+    pos: 50613
+    state: incomplete
+  - id: 56e88037fd1eb8bcf675b9f3
+    name: Code Submitted for review
+    nameData: null
+    pos: 67325
+    state: incomplete
+  - id: 56e88037fd1eb8bcf675b9f4
+    name: Code Test / Merge
+    nameData: null
+    pos: 84559
+    state: incomplete
+  id: 56e88037fd1eb8bcf675b9f1
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idCard: 56e88037fd1eb8bcf675b9ec
+  name: Code Dev
+  pos: 32768
+- checkItems:
+  - id: 56f08906c35aa78f0daef509
+    name: Propose spec [https://review.openstack.org/#/c/295574/2]
+    nameData:
+      emoji: {}
+    pos: 16451
+    state: complete
+  - id: 56f0891e355b64d0a92178c7
+    name: Spec is accepted and merged
+    nameData: null
+    pos: 32965
+    state: complete
+  id: 56f08900538663f30daf6753
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idCard: 56f066c3319e57d8ebea8c5e
+  name: Blueprint & Spec
+  pos: 16384
+- checkItems:
+  - id: 56f08942da8bd41f0a8111e1
+    name: Creation of final repository completed
+    nameData:
+      emoji: {}
+    pos: 17407
+    state: incomplete
+  - id: 56f08962e3ec249ca99f3cea
+    name: Role performs deployment with convergence testing
+    nameData:
+      emoji: {}
+    pos: 34568
+    state: incomplete
+  - id: 56f089a23dd982d965d39ae4
+    name: Archive policies managed through Ansible
+    nameData: null
+    pos: 51435
+    state: incomplete
+  - id: 56f089b8e92ea8b6c51d9c0b
+    name: General playbook for deployment is provided
+    nameData: null
+    pos: 67841
+    state: incomplete
+  - id: 56f089dcf01e6b800a7cb129
+    name: Ceilometer role adjustments to allow Gnocchi to be a natively supported
+      storage engine
+    nameData: null
+    pos: 84790
+    state: incomplete
+  - id: 56f089e9e92ea8b6c51d9ca6
+    name: Full scenario test for role gating
+    nameData: null
+    pos: 101523
+    state: incomplete
+  - id: 56f089fd24164a124cf87d27
+    name: Documentation and full configuration guide for use of the role
+    nameData: null
+    pos: 118027
+    state: incomplete
+  id: 56f08930ca1696ff83922021
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idCard: 56f066c3319e57d8ebea8c5e
+  name: Implementation
+  pos: 32768
+- checkItems:
+  - id: 56f31a58092b9abacc2414e4
+    name: 'Add gnocchi client to Rally clients proposed: https://review.openstack.org/#/c/296022'
+    nameData:
+      emoji: {}
+    pos: 16616
+    state: complete
+  - id: 56f324fe2a512392637f8497
+    name: Add gnocchi client to Rally clients accepted
+    nameData: null
+    pos: 33513
+    state: incomplete
+  id: 56f31a4c45bb4e61d21ffa83
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idCard: 56ec387c0fbc8ade592e8ff5
+  name: Rally Test Design
+  pos: 16384
+- checkItems:
+  - id: 56f32382b107c6b9de0f02f0
+    name: 'spec draft: https://review.openstack.org/#/c/291406/'
+    nameData: null
+    pos: 17102
+    state: complete
+  - id: 56f32391e9a83ea84f16266b
+    name: spec acceptance and merge
+    nameData: null
+    pos: 34218
+    state: incomplete
+  id: 56f32379470e8fb8558f04c2
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idCard: 56f323498714b4eabc17acda
+  name: Cross-Project spec
+  pos: 16384
+- checkItems:
+  - id: 56f32404e39e39c94f0d7062
+    name: Spec proposal
+    nameData: null
+    pos: 16387
+    state: incomplete
+  - id: 56f324076620081896506088
+    name: Spec acceptance and merge
+    nameData: null
+    pos: 33777
+    state: incomplete
+  id: 56f323faf1864027cd8eeee8
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idCard: 56f3236bff7a35253b6a0fa3
+  name: Oslo.config changes
+  pos: 16384
+- checkItems:
+  - id: 56f323ca4cc1c021d1dd80ee
+    name: Ceilometer changes proposed
+    nameData:
+      emoji: {}
+    pos: 17153
+    state: incomplete
+  - id: 56f323cd3885db741fbacb09
+    name: Aodh changes proposed
+    nameData:
+      emoji: {}
+    pos: 34258
+    state: incomplete
+  - id: 56f323d03581f4ed8b6717a7
+    name: Gnocchi changes proposed
+    nameData:
+      emoji: {}
+    pos: 51243
+    state: incomplete
+  - id: 56f324b47ebaa6890e82bd68
+    name: Ceilometer changes accepted
+    nameData: null
+    pos: 68046
+    state: incomplete
+  - id: 56f324bd32179110cddcb714
+    name: Aodh changes accepted
+    nameData: null
+    pos: 85283
+    state: incomplete
+  - id: 56f324c1209a75008be713d2
+    name: Gnocchi changes accepted
+    nameData: null
+    pos: 101918
+    state: incomplete
+  id: 56f323c3ab625fb2bccb7853
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  idCard: 56f323498714b4eabc17acda
+  name: Project compliance
+  pos: 32768
+closed: false
+dateLastActivity: '2016-03-23T23:31:47.562Z'
+dateLastView: '2016-03-23T23:58:50.407Z'
+desc: ''
+descData: null
+id: 56e88037fd1eb8bcf675b9d0
+idOrganization: null
+idTags: []
+invitations: []
+invited: false
+labelNames:
+  black: ''
+  blue: ''
+  green: Horizon
+  lime: ''
+  orange: ''
+  pink: Opportunistic
+  purple: Fleet Management
+  red: ''
+  sky: Ceilometer
+  yellow: ''
+labels:
+- color: sky
+  id: 56e88037fd1eb8bcf675b9dd
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  name: Ceilometer
+  uses: 11
+- color: pink
+  id: 56e88037fd1eb8bcf675b9d8
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  name: Opportunistic
+  uses: 8
+- color: purple
+  id: 56e88037fd1eb8bcf675b9dc
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  name: Fleet Management
+  uses: 7
+- color: green
+  id: 56f30d63152c3f92fd8b82e6
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  name: Horizon
+  uses: 3
+- color: yellow
+  id: 56e88037fd1eb8bcf675b9d9
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  name: ''
+  uses: 0
+- color: orange
+  id: 56e88037fd1eb8bcf675b9da
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  name: ''
+  uses: 0
+- color: red
+  id: 56e88037fd1eb8bcf675b9db
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  name: ''
+  uses: 0
+lists:
+- closed: false
+  id: 56e88037fd1eb8bcf675b9d1
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  name: Epics (Cards don't move)
+  pos: 32767.5
+  subscribed: false
+- closed: false
+  id: 56e88037fd1eb8bcf675b9d2
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  name: Backlog
+  pos: 65535
+  subscribed: false
+- closed: false
+  id: 56e88037fd1eb8bcf675b9d3
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  name: Ready
+  pos: 131071
+  subscribed: false
+- closed: false
+  id: 56e88037fd1eb8bcf675b9d4
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  name: Doing
+  pos: 196607
+  subscribed: false
+- closed: false
+  id: 56e88037fd1eb8bcf675b9d5
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  name: Waiting on External
+  pos: 262143
+  subscribed: false
+- closed: false
+  id: 56e88037fd1eb8bcf675b9d6
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  name: Blocked
+  pos: 327679
+  subscribed: false
+- closed: false
+  id: 56e88037fd1eb8bcf675b9d7
+  idBoard: 56e88037fd1eb8bcf675b9d0
+  name: Done
+  pos: 393215
+  subscribed: false
+members:
+- avatarHash: 630ad528cd57b59154f704e64ebddf96
+  bio: ''
+  bioData: null
+  confirmed: true
+  fullName: Allan Metts
+  id: 4f4d669bf0178a39404b6aef
+  idPremOrgsAdmin: []
+  initials: AM
+  memberType: normal
+  products: []
+  status: disconnected
+  url: https://trello.com/allanmetts
+  username: allanmetts
+- avatarHash: 41fefd5e665c9cea010295432dc4f3a4
+  bio: ''
+  bioData:
+    emoji: {}
+  confirmed: true
+  fullName: Bernardo Salinas
+  id: 53fcd5a2e6e8b9d0142794d9
+  idPremOrgsAdmin: []
+  initials: BS
+  memberType: normal
+  products: []
+  status: disconnected
+  url: https://trello.com/b3rnard0
+  username: b3rnard0
+- avatarHash: e25e306db1f7e1ba3ae3df2a082f747b
+  bio: ''
+  bioData:
+    emoji: {}
+  confirmed: true
+  fullName: Chris Laco
+  id: 50f5a56e252b71453f00491b
+  idPremOrgsAdmin: []
+  initials: CL
+  memberType: normal
+  products: []
+  status: disconnected
+  url: https://trello.com/chrislacorackspace
+  username: chrislacorackspace
+- avatarHash: 0f73d05a62ac3543813281d414eef3a3
+  bio: ''
+  bioData: null
+  confirmed: true
+  fullName: Darren Birkett
+  id: 4f8f06da4dda0ca306253cab
+  idPremOrgsAdmin: []
+  initials: DB
+  memberType: normal
+  products: []
+  status: disconnected
+  url: https://trello.com/darrenbirkett
+  username: darrenbirkett
+- avatarHash: null
+  bio: ''
+  bioData: null
+  confirmed: true
+  fullName: Homer Pena
+  id: 4e7269ba30313f101411f2ef
+  idPremOrgsAdmin: []
+  initials: HP
+  memberType: normal
+  products: []
+  status: disconnected
+  url: https://trello.com/homerpena
+  username: homerpena
+- avatarHash: 6d87169a5d97da7a00869ddcb090f805
+  bio: ''
+  bioData: null
+  confirmed: true
+  fullName: Jason Cannavale
+  id: 4f8eee722ae49b3908292815
+  idPremOrgsAdmin: []
+  initials: JC
+  memberType: normal
+  products: []
+  status: disconnected
+  url: https://trello.com/jasoncannavale
+  username: jasoncannavale
+- avatarHash: 27e2651b64b9d8800b053ccf2b17ef99
+  bio: 'I sneeze loud.
+
+
+    Job: Rackspace Product Manager
+
+    IRC: kencjohnston
+
+    gChat: kencjohnston
+
+    Skype: kenny.c.johnston
+
+    Mobile: +1 7853834044
+
+    Location: Kansas City
+
+    TZ: US Central'
+  bioData:
+    emoji: {}
+  confirmed: true
+  fullName: Kenny Johnston
+  id: 54ab0d5796a73831d20cd9c7
+  idPremOrgsAdmin: []
+  initials: KJ
+  memberType: normal
+  products:
+  - 37
+  status: disconnected
+  url: https://trello.com/kencjohnston
+  username: kencjohnston
+- avatarHash: 3179a03b5c9330a01fa072282b9ff3b1
+  bio: Datacenter Software Planner in Intel's Open Source Technology Center. Been
+    working exclusively in OpenStack space for 2 years - started with marketing to
+    the community and training the Intel field. Completed 16 years at Intel, mostly
+    in technology enabling programs (outreach to SW vendors)
+  bioData:
+    emoji: {}
+  confirmed: true
+  fullName: Krish Raghuram
+  id: 5345b7433d0be1041a27c173
+  idPremOrgsAdmin: []
+  initials: KR
+  memberType: normal
+  products: []
+  status: disconnected
+  url: https://trello.com/krishr
+  username: krishr
+- avatarHash: null
+  bio: ''
+  bioData: null
+  confirmed: true
+  fullName: Lianhao Lu
+  id: 564b59727819803b350a9e4e
+  idPremOrgsAdmin: []
+  initials: LL
+  memberType: normal
+  products: []
+  status: disconnected
+  url: https://trello.com/lianhaolu
+  username: lianhaolu
+- avatarHash: 34981397a615c7ae70263fbfab509763
+  bio: ''
+  bioData:
+    emoji: {}
+  confirmed: true
+  fullName: Luis Daniel Casanova
+  id: 5158e7f68481e14365003b3f
+  idPremOrgsAdmin: []
+  initials: LC
+  memberType: normal
+  products:
+  - 37
+  status: disconnected
+  url: https://trello.com/luisdanielcasanova
+  username: luisdanielcasanova
+- avatarHash: 7ff37266f5fa232fd31d145ea939f4a3
+  bio: ''
+  bioData: null
+  confirmed: true
+  fullName: Mike Apostol
+  id: 527128a3aca80c8143005bfa
+  idPremOrgsAdmin: []
+  initials: MA
+  memberType: normal
+  products: []
+  status: disconnected
+  url: https://trello.com/mikeapostol1
+  username: mikeapostol1
+- avatarHash: 4d711526a94ff827c41827ac7dc994b0
+  bio: ''
+  bioData:
+    emoji: {}
+  confirmed: true
+  fullName: Neil Cox
+  id: 54b82e713ef27882ba1da3cc
+  idPremOrgsAdmin: []
+  initials: NC
+  memberType: normal
+  products: []
+  status: disconnected
+  url: https://trello.com/neilcox
+  username: neilcox
+- avatarHash: c6542f4799dc8f7e3fceb84250261ad8
+  bio: ''
+  bioData: null
+  confirmed: true
+  fullName: Richard Jones
+  id: 540e9a94afe2e78875ece265
+  idPremOrgsAdmin: []
+  initials: RJ
+  memberType: normal
+  products: []
+  status: disconnected
+  url: https://trello.com/richardjones48
+  username: richardjones48
+- avatarHash: null
+  bio: ''
+  bioData: null
+  confirmed: true
+  fullName: Sonu Sreenivasan
+  id: 564a519a6089563330b9db6e
+  idPremOrgsAdmin: []
+  initials: SS
+  memberType: normal
+  products: []
+  status: disconnected
+  url: https://trello.com/sonusreenivasan1
+  username: sonusreenivasan1
+- avatarHash: 2573a7d9eab4e461f0d3eb189b2fca24
+  bio: ''
+  bioData:
+    emoji: {}
+  confirmed: true
+  fullName: Steve Lewis
+  id: 53c01a93696d03354b6b8d67
+  idPremOrgsAdmin: []
+  initials: SL
+  memberType: normal
+  products: []
+  status: disconnected
+  url: https://trello.com/stevelle
+  username: stevelle
+- avatarHash: 8ce5b3912384f82c20de2b068ba9c6b8
+  bio: ''
+  bioData: null
+  confirmed: true
+  fullName: Sumant Murke
+  id: 565cfd5ec173a58111b8290e
+  idPremOrgsAdmin: []
+  initials: SM
+  memberType: normal
+  products: []
+  status: disconnected
+  url: https://trello.com/sumantmurke
+  username: sumantmurke
+- avatarHash: f34664cfc6859d17d2fd4c53ae39ac0d
+  bio: 'Manager, Software Development, UK
+
+    Rackspace Private Cloud
+
+
+    Working on Ops Tooling for Private and Public Cloud.
+
+
+    Inventory
+
+    Remediation
+
+    Auditing
+
+    Alert Aggregation
+
+    Miscellaneous other stuff which I can''t remember'
+  bioData:
+    emoji: {}
+  confirmed: true
+  fullName: Tane Evans
+  id: 528a3d8157b18e6e6000c4f1
+  idPremOrgsAdmin: []
+  initials: TKE
+  memberType: normal
+  products: []
+  status: disconnected
+  url: https://trello.com/taneevans
+  username: taneevans
+- avatarHash: null
+  bio: ''
+  bioData: null
+  confirmed: true
+  fullName: Yarko Tymciurak
+  id: 568ec2848ab63a9717384ff6
+  idPremOrgsAdmin: []
+  initials: YT
+  memberType: normal
+  products: []
+  status: disconnected
+  url: https://trello.com/yarkotymciurak1
+  username: yarkotymciurak1
+memberships:
+- deactivated: false
+  id: 56e88037fd1eb8bcf675b9f5
+  idMember: 4e7269ba30313f101411f2ef
+  memberType: admin
+  unconfirmed: false
+- deactivated: false
+  id: 56e8808e9cb2443cc0538a87
+  idMember: 4f4d669bf0178a39404b6aef
+  memberType: admin
+  unconfirmed: false
+- deactivated: false
+  id: 56e88098dbae7b6e8fd5fa4d
+  idMember: 53c01a93696d03354b6b8d67
+  memberType: admin
+  unconfirmed: false
+- deactivated: false
+  id: 56e882d0ac2e135ffeebcd49
+  idMember: 54ab0d5796a73831d20cd9c7
+  memberType: admin
+  unconfirmed: false
+- deactivated: false
+  id: 56e883d45eeb276a17adba1c
+  idMember: 528a3d8157b18e6e6000c4f1
+  memberType: admin
+  unconfirmed: false
+- deactivated: false
+  id: 56e9816f9eeac336f64cac3a
+  idMember: 564a519a6089563330b9db6e
+  memberType: admin
+  unconfirmed: false
+- deactivated: false
+  id: 56e981759c3fcaa4f63b77f7
+  idMember: 5345b7433d0be1041a27c173
+  memberType: normal
+  unconfirmed: false
+- deactivated: false
+  id: 56e98c7850f0a25a6abca5ab
+  idMember: 540e9a94afe2e78875ece265
+  memberType: admin
+  unconfirmed: false
+- deactivated: false
+  id: 56e98cf2af0ecd3beb0895fa
+  idMember: 565cfd5ec173a58111b8290e
+  memberType: normal
+  unconfirmed: false
+- deactivated: false
+  id: 56e98cfa6e17998971141fd3
+  idMember: 568ec2848ab63a9717384ff6
+  memberType: normal
+  unconfirmed: false
+- deactivated: false
+  id: 56e98d0384de6aac72e51c23
+  idMember: 564b59727819803b350a9e4e
+  memberType: normal
+  unconfirmed: false
+- deactivated: false
+  id: 56f063321f257e2b8153ec97
+  idMember: 527128a3aca80c8143005bfa
+  memberType: normal
+  unconfirmed: false
+- deactivated: false
+  id: 56f151644a55c6fac995949f
+  idMember: 4f8eee722ae49b3908292815
+  memberType: normal
+  unconfirmed: false
+- deactivated: false
+  id: 56f157f861609b9c4b4b3516
+  idMember: 53fcd5a2e6e8b9d0142794d9
+  memberType: normal
+  unconfirmed: false
+- deactivated: false
+  id: 56f1795b2a9128e3a559b634
+  idMember: 50f5a56e252b71453f00491b
+  memberType: normal
+  unconfirmed: false
+- deactivated: false
+  id: 56f17962090396299e82edb9
+  idMember: 4f8f06da4dda0ca306253cab
+  memberType: normal
+  unconfirmed: false
+- deactivated: false
+  id: 56f32703bd63675d4f8296e1
+  idMember: 5158e7f68481e14365003b3f
+  memberType: normal
+  unconfirmed: false
+- deactivated: false
+  id: 56f327559b2690ea685eeec3
+  idMember: 54b82e713ef27882ba1da3cc
+  memberType: normal
+  unconfirmed: false
+name: OSIC - Ceilometer/Horizon/FleetMgt
+pinned: false
+powerUps: []
+prefs:
+  background: blue
+  backgroundBrightness: dark
+  backgroundColor: '#0079BF'
+  backgroundImage: null
+  backgroundImageScaled: null
+  backgroundTile: false
+  calendarFeedEnabled: false
+  canBeOrg: true
+  canBePrivate: true
+  canBePublic: true
+  canInvite: true
+  cardAging: regular
+  cardCovers: true
+  comments: members
+  invitations: members
+  permissionLevel: private
+  selfJoin: false
+  voting: disabled
+shortLink: Rd79MAR2
+shortUrl: https://trello.com/b/Rd79MAR2
+starred: false
+subscribed: false
+url: https://trello.com/b/Rd79MAR2/osic-ceilometer-horizon-fleetmgt
