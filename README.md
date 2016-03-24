@@ -1,6 +1,6 @@
 ## WBS-ceilometer
 
-### WOrkspace for Work Breakdown Structions for planning and team coordination
+### Workspace for developing Work Breakdown Structions
 
 Outline a card's work in yaml format.
 
