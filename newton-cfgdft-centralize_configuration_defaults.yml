@@ -1,0 +1,52 @@
+---
+board: "OSIC - Ceilometer/Horizon/FleetMgt"
+epic: 1
+description: >
+  During the Newton release cycle, centralize and review 100% of configuration
+  defaults across OSIC projects* and set applicable defaults to operational
+  best practices while maintaining defcore compliance.**
+cards:
+  - 30:
+    title: "Ensure latest oslo.config features are utilized throughout telemetry projects"
+    state: Backlog
+    description:
+    members:
+      - "Steve Lewis"
+    work_items:
+      - name: "Oslo.config changes"
+        outstanding:
+          - "spec proposal"
+          - "spec acceptance and merge"
+          - "oslo.config changes proposed"
+          - "oslo.config changes accepted"
+        completed: []
+      - name: "Telemetry compliance"
+        outstanding:
+          - "Ceilometer changes proposed"
+          - "Aodh changes proposed"
+          - "Gnocchi changes proposed"
+          - "Ceilometer changes accepted"
+          - "Aodh changes accepted"
+          - "Gnocchi changes accepted"
+        completed: []
+  - 29:
+    title: "Audit and update existing configuration for compliance with cross-project spec"
+    state: Backlog
+    description:
+    members:
+      - "Steve Lewis"
+    work_items:
+      - name: "Cross-Project spec"
+        outstanding:
+          - "spec acceptance and merge"
+        completed:
+          - "spec draft: https://review.openstack.org/#/c/291406/"
+      - name: "Telemetry compliance"
+        outstanding:
+          - "Ceilometer changes proposed"
+          - "Aodh changes proposed"
+          - "Gnocchi changes proposed"
+          - "Ceilometer changes accepted"
+          - "Aodh changes accepted"
+          - "Gnocchi changes accepted"
+        completed: []
