@@ -5,9 +5,12 @@
 Outline a card's work in yaml format.
 
 You can download a trello board by exporting it as json.
-You can convert the json board to yaml with the json2yaml script in the tools section here.
+You can convert the json board to yaml with the json2yaml.py script in the tools section here.
+You can preview the python instance of your yaml task expansion with yaml2py.py.
 
 You can get the URL to a specific card, or export the json for a single card from the ''share and more'' menu on the right side of the card.
+However, trello gives you the json form of the transactional data for your board.
+For task expansion, we are using a different form.
 
 The cards we are currently interested in
 
