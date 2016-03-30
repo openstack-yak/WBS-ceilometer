@@ -1,10 +1,8 @@
- # Use comments - one of the benefits of yaml;
- #  (yaml quick ref: http://www.yaml.org/refcard.html)
- #
- # link this as a markdown file, for rendering on github;
- #   - to make that work, no "#" in left column
+# Use comments - one of the benefits of yaml;
+#  (yaml quick ref: http://www.yaml.org/refcard.html)
+#
 ---
- # quotes not needed for strings:
+# quotes not needed for strings:
 board: OSIC - Ceilometer/Horizon/FleetMgt
 epic: 1
 description: >
