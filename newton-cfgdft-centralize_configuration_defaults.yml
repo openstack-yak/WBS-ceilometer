@@ -1,4 +1,4 @@
-# Use comments - one of the benefits of yaml;
+# Use comments to log small explanatory notes;
 #  (yaml quick ref: http://www.yaml.org/refcard.html)
 #
 ---
@@ -18,6 +18,7 @@ cards:
            Ensure latest oslo.config features are
            utilized throughout telemetry projects
     state: Backlog
+    short_url: https://trello.com/c/tiom2lOs
     description:
     members:
       - Steve Lewis
@@ -26,27 +27,49 @@ cards:
         # add name when working on something
         outstanding:
           - spec proposal:
-            - # name(s) of people working on
+            - names:
+            - reviews:
           - spec acceptance and merge:
+            - names:
+            - reviews:
           - oslo.config changes proposed:
+            - names:
+            - reviews:
           - oslo.config changes accepted:
+            - names:
+            - reviews:
+
+        # move from outstanding when done;
         # add link(s) to review, etc. when completed
         completed:
-          -  # initially: None
 
       - name: Telemetry compliance
         # add name when working on something:
         outstanding:
           - Ceilometer changes proposed:
+            - names:
+            - reviews:
             - # name(s) of people working on
           - Aodh changes proposed:
+            - names:
+            - reviews:
           - Gnocchi changes proposed:
+            - names:
+            - reviews:
           - Ceilometer changes accepted:
+            - names:
+            - reviews:
           - Aodh changes accepted:
+            - names:
+            - reviews:
           - Gnocchi changes accepted:
+            - names:
+            - reviews:
+
+        # move from outstanding when done;
         # add link(s) to review, etc. when completed
         completed:
-          -  # initially: None
+
 
   - id: 29
     title: >
@@ -54,7 +77,7 @@ cards:
             for compliance with cross-project spec
     state: Backlog
     # card url:
-    shortUrl: https://trello.com/c/bWujhtNE
+    short_url: https://trello.com/c/bWujhtNE
     description:
     members:
       - Steve Lewis
@@ -63,22 +86,41 @@ cards:
         # add name when working on something:
         outstanding:
           - spec acceptance and merge:
-            - # name(s) of people working on
+            - names:
+            - reviews:
+
+        # move from outstanding when done;
         # add link(s) to review, etc. when completed
         completed:
-          - spec draft: https://review.openstack.org/#/c/291406/
+          - spec draft:
+            - names:
+              - stevelle
+            - reviews:
+              - https://review.openstack.org/#/c/291406/
 
       - name: Telemetry compliance
         # add name when working on something:
         outstanding:
           - Ceilometer changes proposed:
-            - # name(s) of people working on
+            - names:
+            - reviews:
           - Aodh changes proposed:
+            - names:
+            - reviews:
           - Gnocchi changes proposed:
+            - names:
+            - reviews:
           - Ceilometer changes accepted:
+            - names:
+            - reviews:
           - Aodh changes accepted:
+            - names:
+            - reviews:
           - Gnocchi changes accepted:
+            - names:
+            - reviews:
+
+        # move from outstanding when done;
         # add link(s) to review, etc. when completed
         completed:
-          -  # initially: None
 
