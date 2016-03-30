@@ -1,52 +1,126 @@
+# Use comments to log small explanatory notes;
+#  (yaml quick ref: http://www.yaml.org/refcard.html)
+#
 ---
-board: "OSIC - Ceilometer/Horizon/FleetMgt"
+# quotes not needed for strings:
+board: OSIC - Ceilometer/Horizon/FleetMgt
 epic: 1
 description: >
-  During the Newton release cycle, centralize and review 100% of configuration
-  defaults across OSIC projects* and set applicable defaults to operational
-  best practices while maintaining defcore compliance.**
+             During the Newton release cycle, centralize and
+             review 100% of configuration defaults across
+             OSIC projects* and set applicable defaults to
+             operational best practices while maintaining
+             defcore compliance.**
+
 cards:
-  - 30:
-    title: "Ensure latest oslo.config features are utilized throughout telemetry projects"
+  - id: 30
+    title: >
+           Ensure latest oslo.config features are
+           utilized throughout telemetry projects
     state: Backlog
+    short_url: https://trello.com/c/tiom2lOs
     description:
     members:
-      - "Steve Lewis"
+      - Steve Lewis
     work_items:
-      - name: "Oslo.config changes"
+      - name: Oslo.config changes
+        # add name when working on something
         outstanding:
-          - "spec proposal"
-          - "spec acceptance and merge"
-          - "oslo.config changes proposed"
-          - "oslo.config changes accepted"
-        completed: []
-      - name: "Telemetry compliance"
-        outstanding:
-          - "Ceilometer changes proposed"
-          - "Aodh changes proposed"
-          - "Gnocchi changes proposed"
-          - "Ceilometer changes accepted"
-          - "Aodh changes accepted"
-          - "Gnocchi changes accepted"
-        completed: []
-  - 29:
-    title: "Audit and update existing configuration for compliance with cross-project spec"
-    state: Backlog
-    description:
-    members:
-      - "Steve Lewis"
-    work_items:
-      - name: "Cross-Project spec"
-        outstanding:
-          - "spec acceptance and merge"
+          - spec proposal:
+            - names:
+            - reviews:
+          - spec acceptance and merge:
+            - names:
+            - reviews:
+          - oslo.config changes proposed:
+            - names:
+            - reviews:
+          - oslo.config changes accepted:
+            - names:
+            - reviews:
+
+        # move from outstanding when done;
+        # add link(s) to review, etc. when completed
         completed:
-          - "spec draft: https://review.openstack.org/#/c/291406/"
-      - name: "Telemetry compliance"
+
+      - name: Telemetry compliance
+        # add name when working on something:
         outstanding:
-          - "Ceilometer changes proposed"
-          - "Aodh changes proposed"
-          - "Gnocchi changes proposed"
-          - "Ceilometer changes accepted"
-          - "Aodh changes accepted"
-          - "Gnocchi changes accepted"
-        completed: []
+          - Ceilometer changes proposed:
+            - names:
+            - reviews:
+            - # name(s) of people working on
+          - Aodh changes proposed:
+            - names:
+            - reviews:
+          - Gnocchi changes proposed:
+            - names:
+            - reviews:
+          - Ceilometer changes accepted:
+            - names:
+            - reviews:
+          - Aodh changes accepted:
+            - names:
+            - reviews:
+          - Gnocchi changes accepted:
+            - names:
+            - reviews:
+
+        # move from outstanding when done;
+        # add link(s) to review, etc. when completed
+        completed:
+
+
+  - id: 29
+    title: >
+            Audit and update existing configuration
+            for compliance with cross-project spec
+    state: Backlog
+    # card url:
+    short_url: https://trello.com/c/bWujhtNE
+    description:
+    members:
+      - Steve Lewis
+    work_items:
+      - name: Cross-Project spec
+        # add name when working on something:
+        outstanding:
+          - spec acceptance and merge:
+            - names:
+            - reviews:
+
+        # move from outstanding when done;
+        # add link(s) to review, etc. when completed
+        completed:
+          - spec draft:
+            - names:
+              - stevelle
+            - reviews:
+              - https://review.openstack.org/#/c/291406/
+
+      - name: Telemetry compliance
+        # add name when working on something:
+        outstanding:
+          - Ceilometer changes proposed:
+            - names:
+            - reviews:
+          - Aodh changes proposed:
+            - names:
+            - reviews:
+          - Gnocchi changes proposed:
+            - names:
+            - reviews:
+          - Ceilometer changes accepted:
+            - names:
+            - reviews:
+          - Aodh changes accepted:
+            - names:
+            - reviews:
+          - Gnocchi changes accepted:
+            - names:
+            - reviews:
+
+        # move from outstanding when done;
+        # add link(s) to review, etc. when completed
+        completed:
+
